@@ -1,0 +1,108 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.worldfestcenarios.com.br/rede2" resolutions="1x" timestamp="1453381622926">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="368435071" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="470459208" seo="true" mt="1452625954444" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="417460444" ref="index"/>
+    <file name="contato.css" crc="504620561" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:tablet>index:contato"/>
+    <file name="museutils.js" crc="183364071" ref="index:tablet>index:contato"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:tablet>index:contato"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:contato"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contato"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:contato"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contato"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:contato"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:contato"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:contato"/>
+  </folder>
+  <folder name="images">
+    <file name="início-favicon.ico" crc="4169289081" ref="tablet>index:index"/>
+    <file name="color_r1_c1.gif" crc="4154338280" seo="true" ref="index:contato"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contato"/>
+    <file name="negativo_r1_c1.gif" crc="4287862667" seo="true" ref="index:contato"/>
+    <file name="loading.gif" crc="3815509949" ref="index:contato"/>
+    <file name="color_r1_c2.gif" crc="4286169228" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c2.gif" crc="4096382713" seo="true" ref="index:contato"/>
+    <file name="color_r1_c3.gif" crc="4049051937" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c3.gif" crc="4055214381" seo="true" ref="index:contato"/>
+    <file name="color_r3_c2.gif" crc="3853395482" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c5.gif" crc="4196332021" seo="true" ref="index:contato"/>
+    <file name="marina.jpg" crc="3766126472" seo="true" ref="index:contato"/>
+    <file name="ran.jpg" crc="232388728" seo="true" ref="index:contato"/>
+    <file name="color_r1_c5.gif" crc="3853395482" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c52.gif" crc="4196332021" seo="true" ref="index:contato"/>
+    <file name="color_r1_c6.gif" crc="3853395482" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c6.gif" crc="4196332021" seo="true" ref="index:contato"/>
+    <file name="color_r3_c6.gif" crc="3853395482" seo="true" ref="index:contato"/>
+    <file name="negativo_r1_c53.gif" crc="4196332021" seo="true" ref="index:contato"/>
+    <file name="aliel machado.jpg" crc="238066493" seo="true" ref="index:contato"/>
+    <file name="randolfe rodrigues.jpg" crc="3888181260" seo="true" ref="index:contato"/>
+    <file name="color_r2_c1.gif" crc="4267481118" seo="true" ref="index:contato"/>
+    <file name="negativo_r2_c1.gif" crc="4240649619" seo="true" ref="index:contato"/>
+    <file name="color_r2_c2.gif" crc="23800927" seo="true" ref="index:contato"/>
+    <file name="negativo_r2_c2.gif" crc="3941469546" seo="true" ref="index:contato"/>
+    <file name="color_r2_c3.gif" crc="3916821564" seo="true" ref="index:contato"/>
+    <file name="negativo_r2_c3.gif" crc="4100649559" seo="true" ref="index:contato"/>
+    <file name="color_r2_c4.gif" crc="4180631995" seo="true" ref="index:contato"/>
+    <file name="negativo_r2_c4.gif" crc="175853645" seo="true" ref="index:contato"/>
+    <file name="color_r2_c5.gif" crc="428608647" seo="true" ref="index:contato"/>
+    <file name="negativo_r2_c5.gif" crc="518903182" seo="true" ref="index:contato"/>
+    <file name="color_r2_c6.gif" crc="6272943" seo="true" ref="index:contato"/>
+    <file name="ex_r2_c6.gif" crc="3829140195" seo="true" ref="index:contato"/>
+    <file name="color_r3_c1.gif" crc="3853395482" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c1.gif" crc="4196332021" seo="true" ref="index:contato"/>
+    <file name="color_r3_c3.gif" crc="3804121813" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c3.gif" crc="419250904" seo="true" ref="index:contato"/>
+    <file name="color_r3_c4.gif" crc="38111415" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c4.gif" crc="4211234258" seo="true" ref="index:contato"/>
+    <file name="color_r3_c5.gif" crc="4163190740" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c5.gif" crc="4021711571" seo="true" ref="index:contato"/>
+    <file name="eliziane gama.jpg" crc="4281920166" seo="true" ref="index:contato"/>
+    <file name="heloisa helena.jpg" crc="4285529337" seo="true" ref="index:contato"/>
+    <file name="miro teixeira.jpg" crc="4289394096" seo="true" ref="index:contato"/>
+    <file name="color_r3_c7.gif" crc="3842917753" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c7.gif" crc="188664405" seo="true" ref="index:contato"/>
+    <file name="color_r3_c8.gif" crc="520957430" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c8.gif" crc="4082090447" seo="true" ref="index:contato"/>
+    <file name="color_r3_c9.gif" crc="3985577569" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c9.gif" crc="184396754" seo="true" ref="index:contato"/>
+    <file name="color_r3_c10.gif" crc="3843387970" seo="true" ref="index:contato"/>
+    <file name="negativo_r3_c10.gif" crc="4030213259" seo="true" ref="index:contato"/>
+    <file name="u7977-5.png" crc="3866333834" ref="index"/>
+    <file name="b3.png" crc="225133930" seo="true" ref="index"/>
+    <file name="u8833-5.png" crc="4147648860" ref="index"/>
+    <file name="u8838-5.png" crc="4179147989" ref="index"/>
+    <file name="u8845-5.png" crc="3893839536" ref="index"/>
+    <file name="imagem colada 586x103.jpg" crc="196333849" seo="true" ref="index"/>
+    <file name="u8924-6.png" crc="220015214" ref="index"/>
+    <file name="u8886-4.png" crc="4247561202" ref="index"/>
+    <file name="u8921-4.png" crc="4043730023" ref="index"/>
+    <file name="u8898-4.png" crc="3847192462" ref="index"/>
+    <file name="u8894-4.png" crc="521469080" ref="index"/>
+    <file name="u8913-4.png" crc="4123348311" ref="index"/>
+    <file name="u8908-4.png" crc="359371246" ref="index"/>
+    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contato"/>
+    <file name="u8847-10.png" crc="478847538" ref="index"/>
+    <file name="u9024-10.png" crc="478847538" ref="contato"/>
+    <file name="u10782-4.png" crc="4247561202" ref="contato"/>
+    <file name="u10822-4.png" crc="4043730023" ref="contato"/>
+    <file name="u10786-4.png" crc="3847192462" ref="contato"/>
+    <file name="u10800-4.png" crc="521469080" ref="contato"/>
+    <file name="u10813-4.png" crc="4123348311" ref="contato"/>
+    <file name="u10792-4-a.png" crc="4243866924" ref="contato"/>
+    <file name="u11800-4.png" crc="4243866924" ref="index"/>
+    <file name="u11801-4.png" crc="4162051910" ref="index"/>
+    <file name="contato-favicon.ico" crc="4169289081" ref="contato"/>
+    <file name="u11809-14.png" crc="225666112" ref="contato"/>
+  </folder>
+  <file name="index.html" crc="76611695" seo="true" mt="1453316713555" redirect="true"/>
+  <file name="contato.html" crc="3875738257" seo="true" mt="1453381593033" redirect="true"/>
+</manifest>
