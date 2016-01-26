@@ -1,108 +1,251 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.worldfestcenarios.com.br/rede2" resolutions="1x" timestamp="1453381622926">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.worldfestcenarios.com.br/rede2" resolutions="1x" timestamp="1453742813996">
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="368435071" ref="tablet>index"/>
+      <file name="index.css" crc="3965466298" ref="tablet>index"/>
+      <file name="delegados-estaduais-ter_o-passagens.css" crc="14136314" ref="tablet>delegados-estaduais-terão-passagens"/>
+      <file name="contato.css" crc="213139184" ref="tablet>contato"/>
+      <file name="hotsite-do-segundo-congresso.css" crc="3937079773" ref="tablet>hotsite-do-segundo-congresso"/>
+      <file name="noticias.css" crc="3972817758" ref="tablet>noticias"/>
     </folder>
-    <file name="index.html" crc="470459208" seo="true" mt="1452625954444" redirect="false"/>
+    <file name="index.html" crc="443960998" seo="true" mt="1453742057068" redirect="true"/>
+    <file name="contato.html" crc="256818057" seo="true" mt="1453742061368" redirect="true"/>
+    <file name="noticias.html" crc="4105154668" seo="true" mt="1453742078169" redirect="true"/>
+    <file name="hotsite-do-segundo-congresso.html" crc="140020019" seo="true" mt="1453741848289" redirect="true"/>
+    <file name="delegados-estaduais-terão-passagens.html" crc="4041718297" seo="true" mt="1453741862513" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="417460444" ref="index"/>
-    <file name="contato.css" crc="504620561" ref="contato"/>
+    <file name="index.css" crc="452848689" ref="index"/>
+    <file name="delegados-estaduais-ter_o-passagens.css" crc="381542383" ref="delegados-estaduais-terão-passagens"/>
+    <file name="not_cias.css" crc="46013870" ref="notícias"/>
+    <file name="hotsite-do-segundo-congresso.css" crc="4273565190" ref="hotsite-do-segundo-congresso"/>
+    <file name="contatos.css" crc="4246348793" ref="contatos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:tablet>index:contato"/>
-    <file name="museutils.js" crc="183364071" ref="index:tablet>index:contato"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:tablet>index:contato"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:contato"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contato"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:contato"/>
-    <file name="museredirect.js" crc="40941066" ref="tablet>index"/>
-    <file name="webpro.js" crc="3803554875" ref="index:contato"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:contato"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:contato"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:contato"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:tablet>index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="museutils.js" crc="275725342" ref="index:tablet>index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:tablet>index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="webpro.js" crc="3883484123" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
   </folder>
   <folder name="images">
-    <file name="início-favicon.ico" crc="4169289081" ref="tablet>index:index"/>
-    <file name="color_r1_c1.gif" crc="4154338280" seo="true" ref="index:contato"/>
-    <file name="blank.gif" crc="4208392903" ref="index:contato"/>
-    <file name="negativo_r1_c1.gif" crc="4287862667" seo="true" ref="index:contato"/>
-    <file name="loading.gif" crc="3815509949" ref="index:contato"/>
-    <file name="color_r1_c2.gif" crc="4286169228" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c2.gif" crc="4096382713" seo="true" ref="index:contato"/>
-    <file name="color_r1_c3.gif" crc="4049051937" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c3.gif" crc="4055214381" seo="true" ref="index:contato"/>
-    <file name="color_r3_c2.gif" crc="3853395482" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c5.gif" crc="4196332021" seo="true" ref="index:contato"/>
-    <file name="marina.jpg" crc="3766126472" seo="true" ref="index:contato"/>
-    <file name="ran.jpg" crc="232388728" seo="true" ref="index:contato"/>
-    <file name="color_r1_c5.gif" crc="3853395482" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c52.gif" crc="4196332021" seo="true" ref="index:contato"/>
-    <file name="color_r1_c6.gif" crc="3853395482" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c6.gif" crc="4196332021" seo="true" ref="index:contato"/>
-    <file name="color_r3_c6.gif" crc="3853395482" seo="true" ref="index:contato"/>
-    <file name="negativo_r1_c53.gif" crc="4196332021" seo="true" ref="index:contato"/>
-    <file name="aliel machado.jpg" crc="238066493" seo="true" ref="index:contato"/>
-    <file name="randolfe rodrigues.jpg" crc="3888181260" seo="true" ref="index:contato"/>
-    <file name="color_r2_c1.gif" crc="4267481118" seo="true" ref="index:contato"/>
-    <file name="negativo_r2_c1.gif" crc="4240649619" seo="true" ref="index:contato"/>
-    <file name="color_r2_c2.gif" crc="23800927" seo="true" ref="index:contato"/>
-    <file name="negativo_r2_c2.gif" crc="3941469546" seo="true" ref="index:contato"/>
-    <file name="color_r2_c3.gif" crc="3916821564" seo="true" ref="index:contato"/>
-    <file name="negativo_r2_c3.gif" crc="4100649559" seo="true" ref="index:contato"/>
-    <file name="color_r2_c4.gif" crc="4180631995" seo="true" ref="index:contato"/>
-    <file name="negativo_r2_c4.gif" crc="175853645" seo="true" ref="index:contato"/>
-    <file name="color_r2_c5.gif" crc="428608647" seo="true" ref="index:contato"/>
-    <file name="negativo_r2_c5.gif" crc="518903182" seo="true" ref="index:contato"/>
-    <file name="color_r2_c6.gif" crc="6272943" seo="true" ref="index:contato"/>
-    <file name="ex_r2_c6.gif" crc="3829140195" seo="true" ref="index:contato"/>
-    <file name="color_r3_c1.gif" crc="3853395482" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c1.gif" crc="4196332021" seo="true" ref="index:contato"/>
-    <file name="color_r3_c3.gif" crc="3804121813" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c3.gif" crc="419250904" seo="true" ref="index:contato"/>
-    <file name="color_r3_c4.gif" crc="38111415" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c4.gif" crc="4211234258" seo="true" ref="index:contato"/>
-    <file name="color_r3_c5.gif" crc="4163190740" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c5.gif" crc="4021711571" seo="true" ref="index:contato"/>
-    <file name="eliziane gama.jpg" crc="4281920166" seo="true" ref="index:contato"/>
-    <file name="heloisa helena.jpg" crc="4285529337" seo="true" ref="index:contato"/>
-    <file name="miro teixeira.jpg" crc="4289394096" seo="true" ref="index:contato"/>
-    <file name="color_r3_c7.gif" crc="3842917753" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c7.gif" crc="188664405" seo="true" ref="index:contato"/>
-    <file name="color_r3_c8.gif" crc="520957430" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c8.gif" crc="4082090447" seo="true" ref="index:contato"/>
-    <file name="color_r3_c9.gif" crc="3985577569" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c9.gif" crc="184396754" seo="true" ref="index:contato"/>
-    <file name="color_r3_c10.gif" crc="3843387970" seo="true" ref="index:contato"/>
-    <file name="negativo_r3_c10.gif" crc="4030213259" seo="true" ref="index:contato"/>
+    <file name="color_r1_c1.gif" crc="4154338280" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>index"/>
+    <file name="negativo_r1_c1.gif" crc="4287862667" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="loading.gif" crc="3815509949" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r1_c2.gif" crc="4286169228" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c2.gif" crc="4096382713" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r1_c3.gif" crc="4049051937" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c3.gif" crc="4055214381" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c2.gif" crc="3853395482" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c5.gif" crc="4196332021" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="marina.jpg" crc="3766126472" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="ran.jpg" crc="232388728" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r1_c5.gif" crc="3853395482" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c52.gif" crc="4196332021" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r1_c6.gif" crc="3853395482" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c6.gif" crc="4196332021" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c6.gif" crc="3853395482" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r1_c53.gif" crc="4196332021" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="aliel machado.jpg" crc="238066493" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="randolfe rodrigues.jpg" crc="3888181260" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c1.gif" crc="4267481118" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r2_c1.gif" crc="4240649619" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c2.gif" crc="23800927" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r2_c2.gif" crc="3941469546" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c3.gif" crc="3916821564" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r2_c3.gif" crc="4100649559" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c4.gif" crc="4180631995" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r2_c4.gif" crc="175853645" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c5.gif" crc="428608647" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r2_c5.gif" crc="518903182" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r2_c6.gif" crc="6272943" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="ex_r2_c6.gif" crc="3829140195" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c1.gif" crc="3853395482" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c1.gif" crc="4196332021" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c3.gif" crc="3804121813" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c3.gif" crc="419250904" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c4.gif" crc="38111415" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c4.gif" crc="4211234258" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c5.gif" crc="4163190740" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c5.gif" crc="4021711571" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="eliziane gama.jpg" crc="4281920166" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="heloisa helena.jpg" crc="4285529337" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="miro teixeira.jpg" crc="4289394096" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c7.gif" crc="3842917753" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c7.gif" crc="188664405" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c8.gif" crc="520957430" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c8.gif" crc="4082090447" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c9.gif" crc="3985577569" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c9.gif" crc="184396754" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="color_r3_c10.gif" crc="3843387970" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
+    <file name="negativo_r3_c10.gif" crc="4030213259" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens"/>
     <file name="u7977-5.png" crc="3866333834" ref="index"/>
-    <file name="b3.png" crc="225133930" seo="true" ref="index"/>
     <file name="u8833-5.png" crc="4147648860" ref="index"/>
-    <file name="u8838-5.png" crc="4179147989" ref="index"/>
+    <file name="u8838-5.png" crc="181279435" ref="index"/>
     <file name="u8845-5.png" crc="3893839536" ref="index"/>
-    <file name="imagem colada 586x103.jpg" crc="196333849" seo="true" ref="index"/>
-    <file name="u8924-6.png" crc="220015214" ref="index"/>
+    <file name="u8924-6.png" crc="3902973993" ref="index"/>
     <file name="u8886-4.png" crc="4247561202" ref="index"/>
     <file name="u8921-4.png" crc="4043730023" ref="index"/>
     <file name="u8898-4.png" crc="3847192462" ref="index"/>
     <file name="u8894-4.png" crc="521469080" ref="index"/>
     <file name="u8913-4.png" crc="4123348311" ref="index"/>
     <file name="u8908-4.png" crc="359371246" ref="index"/>
-    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contato"/>
+    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contatos:notícias:hotsite-do-segundo-congresso:delegados-estaduais-terão-passagens:tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
     <file name="u8847-10.png" crc="478847538" ref="index"/>
-    <file name="u9024-10.png" crc="478847538" ref="contato"/>
-    <file name="u10782-4.png" crc="4247561202" ref="contato"/>
-    <file name="u10822-4.png" crc="4043730023" ref="contato"/>
-    <file name="u10786-4.png" crc="3847192462" ref="contato"/>
-    <file name="u10800-4.png" crc="521469080" ref="contato"/>
-    <file name="u10813-4.png" crc="4123348311" ref="contato"/>
-    <file name="u10792-4-a.png" crc="4243866924" ref="contato"/>
+    <file name="u9024-10.png" crc="478847538" ref="contatos"/>
     <file name="u11800-4.png" crc="4243866924" ref="index"/>
     <file name="u11801-4.png" crc="4162051910" ref="index"/>
-    <file name="contato-favicon.ico" crc="4169289081" ref="contato"/>
-    <file name="u11809-14.png" crc="225666112" ref="contato"/>
+    <file name="1.jpg" crc="3954958674" seo="true" ref="index:notícias"/>
+    <file name="inscreva.jpg" crc="196333849" seo="true" ref="index:tablet>index"/>
+    <file name="2.jpg" crc="3823863798" seo="true" ref="index:notícias"/>
+    <file name="u11863-4.png" crc="415764986" ref="index"/>
+    <file name="u11882-4.png" crc="3901053546" ref="index"/>
+    <file name="u11884-4.png" crc="4237891075" ref="index"/>
+    <file name="u11886-4.png" crc="4237891075" ref="index"/>
+    <file name="u11896-4.png" crc="4012535039" ref="index"/>
+    <file name="u11894-4.png" crc="337254962" ref="index"/>
+    <file name="u11895-4.png" crc="4237891075" ref="index"/>
+    <file name="u11902-4.png" crc="228296249" ref="index"/>
+    <file name="u13669-10.png" crc="478847538" ref="notícias"/>
+    <file name="u16225-4.png" crc="4089632810" ref="hotsite-do-segundo-congresso"/>
+    <file name="u16224-11.png" crc="4158286006" ref="hotsite-do-segundo-congresso"/>
+    <file name="u14703-10.png" crc="478847538" ref="hotsite-do-segundo-congresso"/>
+    <file name="u16831-4.png" crc="4084987252" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u17094-21.png" crc="4043133934" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u16398-10.png" crc="478847538" ref="delegados-estaduais-terão-passagens"/>
+    <file name="segundo-congresso-da-rede-favicon.ico" crc="4169289081" ref="index"/>
+    <file name="minelogo.jpg" crc="446623246" seo="true" ref="contatos:tablet>contato"/>
+    <file name="notícias-favicon.ico" crc="4169289081" ref="notícias"/>
+    <file name="hotsite-do-segundo-congresso-favicon.ico" crc="3921167456" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="delegados-estaduais-terão-passagens-favicon.ico" crc="3921167456" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u17123-10.png" crc="4230940733" ref="contatos"/>
+    <file name="u17142_states.png" crc="277023845" ref="index"/>
+    <file name="u17142_states-r.png" crc="371199095" ref="index"/>
+    <file name="u17149-4.png" crc="415764986" ref="notícias"/>
+    <file name="u17150-4.png" crc="4237891075" ref="notícias"/>
+    <file name="u17154-4.png" crc="3901053546" ref="notícias"/>
+    <file name="u17155-4.png" crc="4237891075" ref="notícias"/>
+    <file name="u17157-4.png" crc="337254962" ref="notícias"/>
+    <file name="u17158-4.png" crc="4237891075" ref="notícias"/>
+    <file name="u17160-4.png" crc="4012535039" ref="notícias"/>
+    <file name="u17161-4.png" crc="228296249" ref="notícias"/>
+    <file name="u17167-5.png" crc="130263344" ref="notícias"/>
+    <file name="banner2.jpg" crc="3916172558" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18285-4.png" crc="4162051910" ref="tablet>index"/>
+    <file name="u18420-5.png" crc="4147648860" ref="tablet>index"/>
+    <file name="u18421-5.png" crc="181279435" ref="tablet>index"/>
+    <file name="u18416-5.png" crc="3866333834" ref="tablet>index"/>
+    <file name="u18422-5.png" crc="3893839536" ref="tablet>index"/>
+    <file name="u18423-10.png" crc="478847538" ref="tablet>index"/>
+    <file name="u18426-6.png" crc="257346974" ref="tablet>index"/>
+    <file name="u18430-4.png" crc="292364384" ref="tablet>index"/>
+    <file name="u18431-4.png" crc="4162196030" ref="tablet>index"/>
+    <file name="u18435-4.png" crc="10641157" ref="tablet>index"/>
+    <file name="u18436-4.png" crc="173000994" ref="tablet>index"/>
+    <file name="u18445_states.png" crc="277023845" ref="tablet>index"/>
+    <file name="u18445_states-r.png" crc="371199095" ref="tablet>index"/>
+    <file name="u18247-4.png" crc="4247561202" ref="tablet>index"/>
+    <file name="u18276-4.png" crc="4043730023" ref="tablet>index"/>
+    <file name="u18234-4.png" crc="3847192462" ref="tablet>index"/>
+    <file name="u18271-4.png" crc="521469080" ref="tablet>index"/>
+    <file name="u18243-4.png" crc="4123348311" ref="tablet>index"/>
+    <file name="u18254-4.png" crc="359371246" ref="tablet>index"/>
+    <file name="u18260-4.png" crc="4243866924" ref="tablet>index"/>
+    <file name="u17236-4.png" crc="4247561202" ref="contatos"/>
+    <file name="u17265-4.png" crc="4043730023" ref="contatos"/>
+    <file name="u17223-4.png" crc="3847192462" ref="contatos"/>
+    <file name="u17260-4.png" crc="521469080" ref="contatos"/>
+    <file name="u17232-4.png" crc="4123348311" ref="contatos"/>
+    <file name="u17243-4.png" crc="359371246" ref="contatos"/>
+    <file name="u17249-4-a.png" crc="4243866924" ref="contatos"/>
+    <file name="u18502-4.png" crc="3809005684" ref="tablet>index"/>
+    <file name="u18503-4.png" crc="4036810120" ref="tablet>index"/>
+    <file name="delegado.jpg" crc="175263263" seo="true" ref="tablet>index:tablet>noticias"/>
+    <file name="r.jpg" crc="3985781102" seo="true" ref="tablet>index:tablet>noticias"/>
+    <file name="site.jpg" crc="224771823" seo="true" ref="tablet>index:tablet>noticias"/>
+    <file name="u18755-10.png" crc="4230940733" ref="tablet>contato"/>
+    <file name="u18748-10.png" crc="478847538" ref="tablet>contato"/>
+    <file name="u18733-4.png" crc="4247561202" ref="tablet>contato"/>
+    <file name="u18746-4.png" crc="4043730023" ref="tablet>contato"/>
+    <file name="u18716-4.png" crc="3847192462" ref="tablet>contato"/>
+    <file name="u18703-4.png" crc="521469080" ref="tablet>contato"/>
+    <file name="u18736-4.png" crc="4123348311" ref="tablet>contato"/>
+    <file name="u18710-4.png" crc="359371246" ref="tablet>contato"/>
+    <file name="u18726-4.png" crc="4243866924" ref="tablet>contato"/>
+    <file name="u18931-5.png" crc="3866333834" ref="tablet>noticias"/>
+    <file name="u18933-4.png" crc="292364384" ref="tablet>noticias"/>
+    <file name="u18934-4.png" crc="4162196030" ref="tablet>noticias"/>
+    <file name="u18936-4.png" crc="10641157" ref="tablet>noticias"/>
+    <file name="u18937-4.png" crc="173000994" ref="tablet>noticias"/>
+    <file name="u18939-4.png" crc="3809005684" ref="tablet>noticias"/>
+    <file name="u18940-4.png" crc="4036810120" ref="tablet>noticias"/>
+    <file name="u18829-10.png" crc="478847538" ref="tablet>noticias"/>
+    <file name="u18818-4.png" crc="4247561202" ref="tablet>noticias"/>
+    <file name="u18804-4.png" crc="4043730023" ref="tablet>noticias"/>
+    <file name="u18792-4.png" crc="3847192462" ref="tablet>noticias"/>
+    <file name="u18813-4.png" crc="521469080" ref="tablet>noticias"/>
+    <file name="u18780-4.png" crc="4123348311" ref="tablet>noticias"/>
+    <file name="u18786-4.png" crc="359371246" ref="tablet>noticias"/>
+    <file name="u18798-4.png" crc="4243866924" ref="tablet>noticias"/>
+    <file name="u19017-4.png" crc="4089632810" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u19016-11.png" crc="3954968772" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18927-10.png" crc="478847538" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18924-4.png" crc="4247561202" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18902-4.png" crc="4043730023" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18912-4.png" crc="3847192462" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18915-4.png" crc="521469080" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18888-4.png" crc="4123348311" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18895-4.png" crc="359371246" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u18884-4.png" crc="4243866924" ref="tablet>hotsite-do-segundo-congresso"/>
+    <file name="u19018-4.png" crc="4084987252" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u19019-21.png" crc="3805313124" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u19013-10.png" crc="478847538" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18973-4.png" crc="4247561202" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u19003-4.png" crc="4043730023" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18989-4.png" crc="3847192462" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u19007-4.png" crc="521469080" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18966-4.png" crc="4123348311" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18995-4.png" crc="359371246" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u18981-4.png" crc="4243866924" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="u19429-4.png" crc="4247561202" ref="contatos"/>
+    <file name="u19386-4.png" crc="4043730023" ref="contatos"/>
+    <file name="u19395-4.png" crc="3847192462" ref="contatos"/>
+    <file name="u19425-4.png" crc="521469080" ref="contatos"/>
+    <file name="u19407-4.png" crc="4123348311" ref="contatos"/>
+    <file name="u19416-4.png" crc="359371246" ref="contatos"/>
+    <file name="u19404-4-a.png" crc="4243866924" ref="contatos"/>
+    <file name="u19067-4.png" crc="4247561202" ref="notícias"/>
+    <file name="u19041-4.png" crc="4043730023" ref="notícias"/>
+    <file name="u19025-4.png" crc="3847192462" ref="notícias"/>
+    <file name="u19058-4.png" crc="521469080" ref="notícias"/>
+    <file name="u19048-4.png" crc="4123348311" ref="notícias"/>
+    <file name="u19055-4.png" crc="359371246" ref="notícias"/>
+    <file name="u19034-4.png" crc="4243866924" ref="notícias"/>
+    <file name="u19117-4.png" crc="4247561202" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19091-4.png" crc="4043730023" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19075-4.png" crc="3847192462" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19108-4.png" crc="521469080" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19098-4.png" crc="4123348311" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19105-4.png" crc="359371246" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19084-4.png" crc="4243866924" ref="hotsite-do-segundo-congresso"/>
+    <file name="u19167-4.png" crc="4247561202" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19141-4.png" crc="4043730023" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19125-4.png" crc="3847192462" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19158-4.png" crc="521469080" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19148-4.png" crc="4123348311" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19155-4.png" crc="359371246" ref="delegados-estaduais-terão-passagens"/>
+    <file name="u19134-4.png" crc="4243866924" ref="delegados-estaduais-terão-passagens"/>
   </folder>
-  <file name="index.html" crc="76611695" seo="true" mt="1453316713555" redirect="true"/>
-  <file name="contato.html" crc="3875738257" seo="true" mt="1453381593033" redirect="true"/>
+  <file name="index.html" crc="320114663" seo="true" mt="1453741732483" redirect="true"/>
+  <file name="contatos.html" crc="40704405" seo="true" mt="1453742582167" redirect="true"/>
+  <file name="notícias.html" crc="4184112030" seo="true" mt="1453740256933" redirect="true"/>
+  <file name="hotsite-do-segundo-congresso.html" crc="83047234" seo="true" mt="1453741732475" redirect="true"/>
+  <file name="delegados-estaduais-terão-passagens.html" crc="3772776465" seo="true" mt="1453741732469" redirect="true"/>
 </manifest>
