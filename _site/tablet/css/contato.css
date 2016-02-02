@@ -1,7 +1,7 @@
 .version.contato /* version checker */
 {
-	color: #00000C;
-	background-color: #B43EF0;
+	color: #0000F5;
+	background-color: #EEF721;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1023.9750000000001px;
+	min-height: 1023.975px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
