@@ -1,7 +1,7 @@
 .version.noticias /* version checker */
 {
-	color: #0000EC;
-	background-color: #CC635E;
+	color: #0000F3;
+	background-color: #ED6821;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1011.9750000000001px;
+	min-height: 1011.975px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 12.024999999999864px;
+	padding-bottom: 12.024999999999977px;
 }
 
 #pu18824

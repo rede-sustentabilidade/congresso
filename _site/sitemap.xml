@@ -7,8 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/noticias.html</loc>
-    <lastmod>2016-01-25</lastmod>
+    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/hotsite-do-segundo-congresso.html</loc>
+    <lastmod>2016-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/delegados-estaduais-ter%C3%A3o-passagens.html</loc>
+    <lastmod>2016-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -488,23 +494,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/not%C3%ADcias.html</loc>
+    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/noticias.html</loc>
+    <lastmod>2016-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/noticias.html"/>
+  </url>
+  <url>
+    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/news1.html</loc>
     <lastmod>2016-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/hotsite-do-segundo-congresso.html</loc>
+    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/news2.html</loc>
     <lastmod>2016-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/hotsite-do-segundo-congresso.html"/>
-  </url>
-  <url>
-    <loc>http://www.worldfestcenarios.com.br/rede2/TEST1/delegados-estaduais-ter%C3%A3o-passagens.html</loc>
-    <lastmod>2016-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.worldfestcenarios.com.br/rede2/TEST1/tablet/delegados-estaduais-terão-passagens.html"/>
   </url>
 </urlset>

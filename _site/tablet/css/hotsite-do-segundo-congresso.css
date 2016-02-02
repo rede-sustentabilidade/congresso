@@ -1,7 +1,7 @@
 .version.hotsite_do_segundo_congresso /* version checker */
 {
-	color: #0000EA;
-	background-color: #AB11DD;
+	color: #000014;
+	background-color: #950ACD;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1023.9750000000001px;
+	min-height: 1023.975px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
