@@ -1,0 +1,13 @@
+deploy:
+    git_push:
+        branch: master
+        remote: dokku@redesustentabilidade.org.br:site-wordpress
+        force: false
+        when:
+            branch: master
+    git_push:
+        branch: master
+        remote: dokku@redesustentabilidade.net:site-wordpress
+        force: false
+        when:
+            branch: develop
