@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455057721629">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455058378012">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="news1.css" crc="3980995686" ref="news1"/>
     <file name="index.css" crc="410191821" ref="index"/>
     <file name="news2.css" crc="192075780" ref="news2"/>
-    <file name="noticias.css" crc="4021534555" ref="noticias"/>
+    <file name="noticias.css" crc="3905778782" ref="noticias"/>
     <file name="contatos.css" crc="517297415" ref="contatos"/>
     <file name="arquivos.css" crc="4254440876" ref="arquivos"/>
     <file name="news4.css" crc="480114587" ref="news4"/>
@@ -330,7 +330,7 @@
   <file name="news1.html" crc="3930507911" seo="true" mt="1455055847511" redirect="true"/>
   <file name="news2.html" crc="496005698" seo="true" mt="1455055832478" redirect="true"/>
   <file name="contatos.html" crc="528482228" seo="true" mt="1455055911735" redirect="true"/>
-  <file name="noticias.html" crc="3888863516" seo="true" mt="1455055884894" redirect="true"/>
+  <file name="noticias.html" crc="4158875761" seo="true" mt="1455058361996" redirect="true"/>
   <file name="arquivos.html" crc="183260111" seo="true" mt="1455057663733" redirect="true"/>
   <file name="news3.html" crc="511783688" seo="true" mt="1455055765433" redirect="true"/>
   <file name="news4.html" crc="257630709" seo="true" mt="1455055823062" redirect="true"/>
