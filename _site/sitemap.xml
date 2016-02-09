@@ -463,12 +463,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://congresso.redesustentabilidade.org.br/images/programa%C3%A7%C3%A3o.jpg</loc>
-    <lastmod>2016-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://congresso.redesustentabilidade.org.br/images/wta.gif</loc>
     <lastmod>2016-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -494,6 +488,12 @@
   </url>
   <url>
     <loc>https://congresso.redesustentabilidade.org.br/images/pdf.png</loc>
+    <lastmod>2016-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/programacao.jpg</loc>
     <lastmod>2016-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
