@@ -1,55 +1,20 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #5C36BA;
-}
-
-@-ms-viewport
-{
-	width: 768px;
-}
-
-@-webkit-viewport
-{
-	width: 768px;
-}
-
-@-o-viewport
-{
-	width: 768px;
-}
-
-@-moz-viewport
-{
-	width: 768px;
-}
-
-@viewport
-{
-	width: 768px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #00000B;
+	background-color: #D042A1;
 }
 
 #page
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1024px;
+	min-height: 768px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-}
-
-#page_position_content
-{
 	padding-top: 128px;
 	padding-bottom: 128px;
-	width: 0.01px;
 }
 
 #pu18221
@@ -62,6 +27,16 @@
 	z-index: 2;
 	height: 300px;
 	background: #FFAC32 url("../../images/banner2.jpg") no-repeat center top;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u18221-bw
@@ -142,7 +117,7 @@
 	z-index: 8;
 	width: 640px;
 	min-height: 484px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -239,15 +214,11 @@
 #u18415
 {
 	z-index: 16;
-	min-height: 459.67500000000155px;
+	min-height: 296.67500000000155px;
 	background-color: #319D8B;
-	padding-bottom: 0px;
-}
-
-#u18415_position_content
-{
 	padding-top: 40px;
-	padding-bottom: 123px;
+	padding-right: 128px;
+	padding-bottom: 123.32499999999845px;
 }
 
 #u18420-5
@@ -278,7 +249,7 @@
 #u18415-bw
 {
 	z-index: 16;
-	min-height: 459.67500000000155px;
+	min-height: 296.67500000000155px;
 	margin-top: 466px;
 }
 
@@ -296,15 +267,10 @@
 #u18417
 {
 	z-index: 22;
-	min-height: 842.568291859905px;
+	min-height: 767.568291859905px;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
-}
-
-#u18417_position_content
-{
 	padding-top: 74px;
-	padding-bottom: 1px;
+	padding-bottom: 1.4317081400949974px;
 }
 
 #u18422-5
@@ -316,16 +282,39 @@
 	position: relative;
 }
 
+#pu18424
+{
+	width: 0.01px;
+	margin-top: 76px;
+	position: relative;
+}
+
 #u18424
 {
 	z-index: 48;
 	width: 768px;
 	min-height: 304px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 76px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u18426-6
+{
+	z-index: 49;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.js #u18421-5.ose_pre_init,.js #u18426-6.ose_pre_init
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
 #pu18427
@@ -358,25 +347,8 @@
 #u18417-bw
 {
 	z-index: 22;
-	min-height: 842.568291859905px;
+	min-height: 767.568291859905px;
 	margin-top: 826px;
-}
-
-#u18426-6
-{
-	z-index: 49;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1036px;
-}
-
-.js #u18421-5.ose_pre_init,.js #u18426-6.ose_pre_init
-{
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
 }
 
 #u18429
@@ -395,6 +367,7 @@
 {
 	margin-bottom: -1px;
 	padding-top: 38px;
+	width: 100%;
 }
 
 #u18430-4
@@ -427,6 +400,7 @@
 #u18434_position_content
 {
 	padding-top: 7px;
+	width: 100%;
 }
 
 #u18435-4
@@ -450,8 +424,9 @@
 #u18445
 {
 	z-index: 76;
-	position: relative;
 	width: 209px;
+	vertical-align: top;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 438px;
 	left: 559px;
@@ -459,9 +434,9 @@
 
 #u18445_states
 {
-	height: 29px;
+	float: left;
 	width: 209px;
-	vertical-align: top;
+	height: 29px;
 	background: url("../../images/u18445_states.png") no-repeat 0px 0px;
 }
 
@@ -547,7 +522,7 @@
 {
 	z-index: 96;
 	width: 696px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 36px;
@@ -923,14 +898,39 @@
 	cursor: pointer;
 }
 
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
 body
 {
 	position: relative;
 	min-width: 768px;
 }
 
-#page .verticalspacer
+@-ms-viewport
 {
-	clear: both;
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
 }
 

@@ -1,37 +1,7 @@
 .version.noticias /* version checker */
 {
-	color: #0000F3;
-	background-color: #ED6821;
-}
-
-@-ms-viewport
-{
-	width: 768px;
-}
-
-@-webkit-viewport
-{
-	width: 768px;
-}
-
-@-o-viewport
-{
-	width: 768px;
-}
-
-@-moz-viewport
-{
-	width: 768px;
-}
-
-@viewport
-{
-	width: 768px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #00001D;
+	background-color: #E5FC73;
 }
 
 #page
@@ -40,7 +10,7 @@
 	width: 768px;
 	min-height: 1011.975px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 12.024999999999977px;
@@ -56,6 +26,16 @@
 	z-index: 2;
 	height: 300px;
 	background: #FFAC32 url("../../images/banner2.jpg") no-repeat center top;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u18824-bw
@@ -162,6 +142,7 @@
 {
 	margin-bottom: -1px;
 	padding-top: 38px;
+	width: 100%;
 }
 
 #u18933-4
@@ -193,6 +174,7 @@
 #u18935_position_content
 {
 	padding-top: 7px;
+	width: 100%;
 }
 
 #u18936-4
@@ -271,7 +253,7 @@
 {
 	z-index: 5;
 	width: 696px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 36px;
@@ -647,14 +629,39 @@
 	cursor: pointer;
 }
 
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
 body
 {
 	position: relative;
 	min-width: 768px;
 }
 
-#page .verticalspacer
+@-ms-viewport
 {
-	clear: both;
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
 }
 
