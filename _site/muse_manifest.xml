@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455566304747">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455567337222">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="arquivos.css" crc="3858775081" ref="arquivos"/>
     <file name="inscreva-se.css" crc="4007537626" ref="inscreva-se"/>
     <file name="news3.css" crc="208691389" ref="news3"/>
-    <file name="index.css" crc="4229054565" ref="index"/>
+    <file name="index.css" crc="292258311" ref="index"/>
     <file name="contatos.css" crc="3898924976" ref="contatos"/>
     <file name="tese--e-prif.css" crc="49277114" ref="tese--e-prif"/>
     <file name="noticias.css" crc="196607621" ref="noticias"/>
@@ -415,7 +415,7 @@
     <file name="hotsite-do-segundo-congresso.html" crc="519875603" seo="true" mt="1455049093799" redirect="true"/>
     <file name="delegados-estaduais-terão-passagens.html" crc="5429113" seo="true" mt="1455049093808" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4078754886" seo="true" mt="1455566292801" redirect="true"/>
+  <file name="index.html" crc="4078754886" seo="true" mt="1455567322369" redirect="true"/>
   <file name="contatos.html" crc="105474940" seo="true" mt="1455559625184" redirect="true"/>
   <file name="noticias.html" crc="249287118" seo="true" mt="1455565645746" redirect="true"/>
   <file name="news1.html" crc="4204146391" seo="true" mt="1455561995375" redirect="true"/>
