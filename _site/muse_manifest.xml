@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455567337222">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455622454794">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="arquivos.css" crc="3858775081" ref="arquivos"/>
@@ -15,96 +15,26 @@
     <file name="news6.css" crc="4153615609" ref="news6"/>
   </folder>
   <folder name="scripts">
-    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>noticias:index:noticias"/>
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="museutils.js" crc="4190794036" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="whatinput.js" crc="84559013" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="jquery.watch.js" crc="349565855" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="jquery.scrolleffects.js" crc="3837774061" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>index"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="museutils.js" crc="4190794036" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="whatinput.js" crc="84559013" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="jquery.watch.js" crc="349565855" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="webpro.js" crc="488283310" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="musewpslideshow.js" crc="248860441" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="jquery.museoverlay.js" crc="3898476799" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="touchswipe.js" crc="4191887251" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
   </folder>
   <folder name="images">
-    <file name="banner2.jpg" crc="3916172558" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens"/>
-    <file name="inscreva.jpg" crc="196333849" seo="true" ref="tablet>index:index"/>
-    <file name="u18285-4.png" crc="4162051910" ref="tablet>index"/>
-    <file name="u18420-5.png" crc="4147648860" ref="tablet>index"/>
-    <file name="u18421-5.png" crc="181279435" ref="tablet>index"/>
-    <file name="u18416-5.png" crc="3866333834" ref="tablet>index"/>
-    <file name="u18422-5.png" crc="3893839536" ref="tablet>index"/>
-    <file name="u18426-6.png" crc="257346974" ref="tablet>index"/>
-    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="tablet>index:tablet>contato:tablet>noticias:tablet>hotsite-do-segundo-congresso:tablet>delegados-estaduais-terão-passagens:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="u18423-10.png" crc="478847538" ref="tablet>index"/>
-    <file name="u18430-4.png" crc="292364384" ref="tablet>index"/>
-    <file name="u18431-4.png" crc="4162196030" ref="tablet>index"/>
-    <file name="u18435-4.png" crc="10641157" ref="tablet>index"/>
-    <file name="u18436-4.png" crc="173000994" ref="tablet>index"/>
-    <file name="blank.gif" crc="4208392903" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="u18445_states.png" crc="277023845" ref="tablet>index"/>
-    <file name="u18445_states-r.png" crc="371199095" ref="tablet>index"/>
-    <file name="u18502-4.png" crc="3809005684" ref="tablet>index"/>
-    <file name="u18503-4.png" crc="4036810120" ref="tablet>index"/>
-    <file name="delegado.jpg" crc="175263263" seo="true" ref="tablet>index:tablet>noticias"/>
-    <file name="r.jpg" crc="3985781102" seo="true" ref="tablet>index:tablet>noticias"/>
-    <file name="site.jpg" crc="224771823" seo="true" ref="tablet>index:tablet>noticias"/>
-    <file name="u18247-4.png" crc="4247561202" ref="tablet>index"/>
-    <file name="u18276-4.png" crc="4043730023" ref="tablet>index"/>
-    <file name="u18234-4.png" crc="3847192462" ref="tablet>index"/>
-    <file name="u18271-4.png" crc="521469080" ref="tablet>index"/>
-    <file name="u18243-4.png" crc="4123348311" ref="tablet>index"/>
-    <file name="u18254-4.png" crc="359371246" ref="tablet>index"/>
-    <file name="u18260-4.png" crc="4243866924" ref="tablet>index"/>
-    <file name="minelogo.jpg" crc="446623246" seo="true" ref="tablet>contato:contatos"/>
-    <file name="u18755-10.png" crc="4230940733" ref="tablet>contato"/>
-    <file name="u18748-10.png" crc="478847538" ref="tablet>contato"/>
-    <file name="u18733-4.png" crc="4247561202" ref="tablet>contato"/>
-    <file name="u18746-4.png" crc="4043730023" ref="tablet>contato"/>
-    <file name="u18716-4.png" crc="3847192462" ref="tablet>contato"/>
-    <file name="u18703-4.png" crc="521469080" ref="tablet>contato"/>
-    <file name="u18736-4.png" crc="4123348311" ref="tablet>contato"/>
-    <file name="u18710-4.png" crc="359371246" ref="tablet>contato"/>
-    <file name="u18726-4.png" crc="4243866924" ref="tablet>contato"/>
-    <file name="u18931-5.png" crc="3866333834" ref="tablet>noticias"/>
-    <file name="u18933-4.png" crc="292364384" ref="tablet>noticias"/>
-    <file name="u18934-4.png" crc="4162196030" ref="tablet>noticias"/>
-    <file name="u18936-4.png" crc="10641157" ref="tablet>noticias"/>
-    <file name="u18937-4.png" crc="173000994" ref="tablet>noticias"/>
-    <file name="u18939-4.png" crc="3809005684" ref="tablet>noticias"/>
-    <file name="u18940-4.png" crc="4036810120" ref="tablet>noticias"/>
-    <file name="u18829-10.png" crc="478847538" ref="tablet>noticias"/>
-    <file name="u18818-4.png" crc="4247561202" ref="tablet>noticias"/>
-    <file name="u18804-4.png" crc="4043730023" ref="tablet>noticias"/>
-    <file name="u18792-4.png" crc="3847192462" ref="tablet>noticias"/>
-    <file name="u18813-4.png" crc="521469080" ref="tablet>noticias"/>
-    <file name="u18780-4.png" crc="4123348311" ref="tablet>noticias"/>
-    <file name="u18786-4.png" crc="359371246" ref="tablet>noticias"/>
-    <file name="u18798-4.png" crc="4243866924" ref="tablet>noticias"/>
-    <file name="hotsite-do-segundo-congresso-favicon.ico" crc="4169289081" ref="tablet>hotsite-do-segundo-congresso:news1"/>
-    <file name="u19017-4.png" crc="4089632810" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u19016-11.png" crc="3954968772" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18927-10.png" crc="478847538" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18924-4.png" crc="4247561202" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18902-4.png" crc="4043730023" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18912-4.png" crc="3847192462" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18915-4.png" crc="521469080" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18888-4.png" crc="4123348311" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18895-4.png" crc="359371246" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="u18884-4.png" crc="4243866924" ref="tablet>hotsite-do-segundo-congresso"/>
-    <file name="delegados-estaduais-terão-passagens-favicon.ico" crc="4169289081" ref="tablet>delegados-estaduais-terão-passagens:news2"/>
-    <file name="u19018-4.png" crc="4084987252" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u19019-21.png" crc="3805313124" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u19013-10.png" crc="478847538" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u18973-4.png" crc="4247561202" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u19003-4.png" crc="4043730023" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u18989-4.png" crc="3847192462" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u19007-4.png" crc="521469080" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u18966-4.png" crc="4123348311" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u18995-4.png" crc="359371246" ref="tablet>delegados-estaduais-terão-passagens"/>
-    <file name="u18981-4.png" crc="4243866924" ref="tablet>delegados-estaduais-terão-passagens"/>
+    <file name="inscreva.jpg" crc="196333849" seo="true" ref="index"/>
+    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="minelogo.jpg" crc="446623246" seo="true" ref="contatos"/>
+    <file name="hotsite-do-segundo-congresso-favicon.ico" crc="4169289081" ref="news1"/>
+    <file name="delegados-estaduais-terão-passagens-favicon.ico" crc="4169289081" ref="news2"/>
     <file name="segundo-congresso-da-rede-favicon.ico" crc="4169289081" ref="index"/>
     <file name="color_r2_c2.gif" crc="23800927" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="negativo_r2_c2.gif" crc="3941469546" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
@@ -403,21 +333,13 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="hotsite-do-segundo-congresso.css" crc="290607778" ref="tablet>hotsite-do-segundo-congresso"/>
-      <file name="contato.css" crc="3942196185" ref="tablet>contato"/>
-      <file name="index.css" crc="198197921" ref="tablet>index"/>
-      <file name="delegados-estaduais-ter_o-passagens.css" crc="4289212891" ref="tablet>delegados-estaduais-terão-passagens"/>
-      <file name="noticias.css" crc="501611635" ref="tablet>noticias"/>
+      <file name="index.css" crc="4129362348" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="411355864" seo="true" mt="1454447587989" redirect="true"/>
-    <file name="contato.html" crc="3868132755" seo="true" mt="1453742061368" redirect="true"/>
-    <file name="noticias.html" crc="4143936916" seo="true" mt="1454447491472" redirect="true"/>
-    <file name="hotsite-do-segundo-congresso.html" crc="519875603" seo="true" mt="1455049093799" redirect="true"/>
-    <file name="delegados-estaduais-terão-passagens.html" crc="5429113" seo="true" mt="1455049093808" redirect="true"/>
+    <file name="index.html" crc="438775446" seo="true" mt="1455622412969" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4078754886" seo="true" mt="1455567322369" redirect="true"/>
+  <file name="index.html" crc="383010907" seo="true" mt="1455622412967" redirect="true"/>
   <file name="contatos.html" crc="105474940" seo="true" mt="1455559625184" redirect="true"/>
-  <file name="noticias.html" crc="249287118" seo="true" mt="1455565645746" redirect="true"/>
+  <file name="noticias.html" crc="357026482" seo="true" mt="1455622303103" redirect="true"/>
   <file name="news1.html" crc="4204146391" seo="true" mt="1455561995375" redirect="true"/>
   <file name="news2.html" crc="173574134" seo="true" mt="1455562018199" redirect="true"/>
   <file name="arquivos.html" crc="3988878221" seo="true" mt="1455559734165" redirect="true"/>
