@@ -1,0 +1,393 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455645791347">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="contatos.css" crc="3898924976" ref="contatos"/>
+    <file name="noticias.css" crc="3894979233" ref="noticias"/>
+    <file name="news8.css" crc="4197214664" ref="news8"/>
+    <file name="inscreva-se.css" crc="4007537626" ref="inscreva-se"/>
+    <file name="news1.css" crc="4117629862" ref="news1"/>
+    <file name="news5.css" crc="4279426964" ref="news5"/>
+    <file name="news2.css" crc="4268260788" ref="news2"/>
+    <file name="news6.css" crc="4153615609" ref="news6"/>
+    <file name="arquivos.css" crc="3858775081" ref="arquivos"/>
+    <file name="news3.css" crc="208691389" ref="news3"/>
+    <file name="index.css" crc="3913326034" ref="index"/>
+    <file name="news4.css" crc="350829235" ref="news4"/>
+    <file name="news7.css" crc="3792850359" ref="news7"/>
+    <file name="tese--e-prif.css" crc="49277114" ref="tese--e-prif"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="museutils.js" crc="4190794036" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="webpro.js" crc="488283310" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+  </folder>
+  <folder name="images">
+    <file name="segundo-congresso-da-rede-favicon.ico" crc="109684085" ref="index"/>
+    <file name="color_r2_c2.gif" crc="23800927" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r2_c2.gif" crc="3941469546" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="loading.gif" crc="3815509949" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="a.gif" crc="4227090320" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="b.gif" crc="4242474122" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="23.jpg" crc="3892196066" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="24.jpg" crc="3964972496" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="25.jpg" crc="3944913873" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="a2.gif" crc="4227090320" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="b2.gif" crc="4242474122" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r2_c1.gif" crc="4267481118" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r2_c1.gif" crc="4240649619" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="20.jpg" crc="241380003" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="21.jpg" crc="508285714" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="22.jpg" crc="410525677" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r2_c3.gif" crc="3916821564" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r2_c3.gif" crc="4100649559" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c3.gif" crc="3804121813" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c3.gif" crc="419250904" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r1_c2.gif" crc="4286169228" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r1_c2.gif" crc="4096382713" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r1_c3.gif" crc="4049051937" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r1_c3.gif" crc="4055214381" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r1_c1.gif" crc="4154338280" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r1_c1.gif" crc="4287862667" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r2_c5.gif" crc="428608647" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r2_c5.gif" crc="518903182" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c5.gif" crc="4163190740" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c5.gif" crc="4021711571" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r2_c4.gif" crc="4180631995" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r2_c4.gif" crc="175853645" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c4.gif" crc="38111415" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c4.gif" crc="4211234258" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r2_c6.gif" crc="6272943" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="ex_r2_c6.gif" crc="3829140195" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="27.jpg" crc="486456787" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="28.jpg" crc="427371470" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="29.jpg" crc="344811100" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="30.jpg" crc="4209380736" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="5.jpg" crc="3897881776" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="6.jpg" crc="478510054" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="7.jpg" crc="242390031" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="31.jpg" crc="382802639" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="1.jpg" crc="3774081489" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="2.jpg" crc="398024632" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="3.jpg" crc="3937677623" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="4.jpg" crc="403820014" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="14.jpg" crc="4087333734" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="15.jpg" crc="176908313" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="16.jpg" crc="454142215" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c8.gif" crc="520957430" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c8.gif" crc="4082090447" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c7.gif" crc="3842917753" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c7.gif" crc="188664405" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="17.jpg" crc="12999182" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="18.jpg" crc="3855755898" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="19.jpg" crc="3776442926" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="34.jpg" crc="3862455681" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c9.gif" crc="3985577569" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c9.gif" crc="184396754" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="11.jpg" crc="125479426" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="12.jpg" crc="3759514154" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="13.jpg" crc="4283804472" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="33.jpg" crc="4213595056" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="8.jpg" crc="3872404649" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="9.jpg" crc="3796676787" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="10.jpg" crc="4280353234" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="32.jpg" crc="4203102773" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="color_r3_c10.gif" crc="3843387970" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="negativo_r3_c10.gif" crc="4030213259" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="u64836-4.png" crc="4247561202" ref="index"/>
+    <file name="u64817-4.png" crc="4043730023" ref="index"/>
+    <file name="u64845-4.png" crc="379348789" ref="index"/>
+    <file name="u64859-4.png" crc="503520057" ref="index"/>
+    <file name="u64866-4.png" crc="114710934" ref="index"/>
+    <file name="u64824-4.png" crc="4123348311" ref="index"/>
+    <file name="u64809-4.png" crc="201160939" ref="index"/>
+    <file name="u64851-4.png" crc="3933043718" ref="index"/>
+    <file name="u64833-4.png" crc="4243866924" ref="index"/>
+    <file name="bimportante.jpg" crc="334724234" seo="true" ref="index"/>
+    <file name="inscreva.jpg" crc="196333849" seo="true" ref="index"/>
+    <file name="u11801-6.png" crc="121408345" ref="index"/>
+    <file name="u7977-5.png" crc="4064886914" ref="index"/>
+    <file name="u39795-5.png" crc="326110366" ref="index"/>
+    <file name="u17142_states.png" crc="277023845" ref="index"/>
+    <file name="u17142_states-r.png" crc="371199095" ref="index"/>
+    <file name="u70227-4.png" crc="101596292" ref="index"/>
+    <file name="u70234-4.png" crc="4237891075" ref="index"/>
+    <file name="u38102-4.png" crc="3759451078" ref="index"/>
+    <file name="u38103-4.png" crc="4237891075" ref="index"/>
+    <file name="u70294-4.png" crc="106751653" ref="index"/>
+    <file name="u70228-4.png" crc="4237891075" ref="index"/>
+    <file name="52.jpg" crc="425812801" seo="true" ref="index:noticias"/>
+    <file name="72.jpg" crc="3770485161" seo="true" ref="index:noticias"/>
+    <file name="82.jpg" crc="304514443" seo="true" ref="index:noticias"/>
+    <file name="programacao.jpg" crc="4261295575" seo="true" ref="index"/>
+    <file name="u8833-5.png" crc="4288407662" ref="index"/>
+    <file name="u8838-5.png" crc="77878505" ref="index"/>
+    <file name="u8845-5.png" crc="4099582728" ref="index"/>
+    <file name="u34950-22.png" crc="3887354236" ref="index"/>
+    <file name="wp.png" crc="4018989863" seo="true" ref="index"/>
+    <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6:news7:news8"/>
+    <file name="u8847-10.png" crc="478847538" ref="index"/>
+    <file name="contatos-favicon.ico" crc="109684085" ref="contatos"/>
+    <file name="u62290-4.png" crc="4247561202" ref="contatos"/>
+    <file name="u62274-4.png" crc="4043730023" ref="contatos"/>
+    <file name="u62303-4.png" crc="379348789" ref="contatos"/>
+    <file name="u62308-4.png" crc="503520057" ref="contatos"/>
+    <file name="u62322-4.png" crc="114710934" ref="contatos"/>
+    <file name="u62270-4.png" crc="4123348311" ref="contatos"/>
+    <file name="u62319-4.png" crc="201160939" ref="contatos"/>
+    <file name="u62298-4.png" crc="3933043718" ref="contatos"/>
+    <file name="u62284-4-a.png" crc="4243866924" ref="contatos"/>
+    <file name="minelogo.jpg" crc="446623246" seo="true" ref="contatos"/>
+    <file name="u17123-19.png" crc="4048339199" ref="contatos"/>
+    <file name="wta.gif" crc="519830901" seo="true" ref="contatos"/>
+    <file name="u9024-10.png" crc="478847538" ref="contatos"/>
+    <file name="noticias-favicon.ico" crc="109684085" ref="noticias"/>
+    <file name="u64619-4.png" crc="4247561202" ref="noticias"/>
+    <file name="u64630-4.png" crc="4043730023" ref="noticias"/>
+    <file name="u64580-4.png" crc="379348789" ref="noticias"/>
+    <file name="u64635-4.png" crc="503520057" ref="noticias"/>
+    <file name="u64598-4.png" crc="114710934" ref="noticias"/>
+    <file name="u64614-4.png" crc="4123348311" ref="noticias"/>
+    <file name="u64606-4.png" crc="201160939" ref="noticias"/>
+    <file name="u64592-4.png" crc="3933043718" ref="noticias"/>
+    <file name="u64584-4.png" crc="4243866924" ref="noticias"/>
+    <file name="u17167-5.png" crc="218496404" ref="noticias"/>
+    <file name="u70183-4.png" crc="101596292" ref="noticias"/>
+    <file name="u70184-4.png" crc="4237891075" ref="noticias"/>
+    <file name="congresso-divulgacao-17.jpg" crc="195625566" seo="true" ref="noticias"/>
+    <file name="u38081-4.png" crc="3954249538" ref="noticias"/>
+    <file name="u38082-4.png" crc="4237891075" ref="noticias"/>
+    <file name="u13669-10.png" crc="478847538" ref="noticias"/>
+    <file name="62.jpg" crc="373008240" seo="true" ref="noticias"/>
+    <file name="u70210-4.png" crc="4056261530" ref="noticias"/>
+    <file name="u70211-4.png" crc="4237891075" ref="noticias"/>
+    <file name="u70328-4.png" crc="3759451078" ref="noticias"/>
+    <file name="u70329-4.png" crc="4237891075" ref="noticias"/>
+    <file name="u70332-4.png" crc="106751653" ref="noticias"/>
+    <file name="u70331-4.png" crc="4237891075" ref="noticias"/>
+    <file name="u75550-4.png" crc="4012535039" ref="noticias"/>
+    <file name="u75551-4.png" crc="228296249" ref="noticias"/>
+    <file name="u75553-4.png" crc="4235821508" ref="noticias"/>
+    <file name="u75552-4.png" crc="503112495" ref="noticias"/>
+    <file name="26.jpg" crc="491158656" seo="true" ref="noticias"/>
+    <file name="u75555-4.png" crc="3901053546" ref="noticias"/>
+    <file name="u75557-4.png" crc="4237891075" ref="noticias"/>
+    <file name="110.jpg" crc="3954958674" seo="true" ref="noticias"/>
+    <file name="u75564-4.png" crc="137640189" ref="noticias"/>
+    <file name="u75561-4.png" crc="4237891075" ref="noticias"/>
+    <file name="congresso-divulgacao-16.jpg" crc="204925765" seo="true" ref="noticias"/>
+    <file name="u75612-4.png" crc="495293100" ref="noticias"/>
+    <file name="u75616-4.png" crc="4237891075" ref="noticias"/>
+    <file name="hotsite-do-segundo-congresso-favicon.ico" crc="109684085" ref="news1"/>
+    <file name="u63443-4.png" crc="4247561202" ref="news1"/>
+    <file name="u63427-4.png" crc="4043730023" ref="news1"/>
+    <file name="u63456-4.png" crc="379348789" ref="news1"/>
+    <file name="u63461-4.png" crc="503520057" ref="news1"/>
+    <file name="u63475-4.png" crc="114710934" ref="news1"/>
+    <file name="u63423-4.png" crc="4123348311" ref="news1"/>
+    <file name="u63472-4.png" crc="201160939" ref="news1"/>
+    <file name="u63451-4.png" crc="3933043718" ref="news1"/>
+    <file name="u63437-4.png" crc="4243866924" ref="news1"/>
+    <file name="u65008-6.png" crc="24355364" ref="news1"/>
+    <file name="u16225-4.png" crc="4089632810" ref="news1"/>
+    <file name="u16224-11.png" crc="4158286006" ref="news1"/>
+    <file name="u41220-4.png" crc="512124188" ref="news1"/>
+    <file name="u14703-10.png" crc="478847538" ref="news1"/>
+    <file name="delegados-estaduais-terão-passagens-favicon.ico" crc="109684085" ref="news2"/>
+    <file name="u65011-6.png" crc="24355364" ref="news2"/>
+    <file name="u16831-4.png" crc="4084987252" ref="news2"/>
+    <file name="u17094-21.png" crc="4043133934" ref="news2"/>
+    <file name="u44657-4.png" crc="512124188" ref="news2"/>
+    <file name="u16398-10.png" crc="478847538" ref="news2"/>
+    <file name="u63635-4.png" crc="4247561202" ref="news2"/>
+    <file name="u63619-4.png" crc="4043730023" ref="news2"/>
+    <file name="u63648-4.png" crc="379348789" ref="news2"/>
+    <file name="u63653-4.png" crc="503520057" ref="news2"/>
+    <file name="u63667-4.png" crc="114710934" ref="news2"/>
+    <file name="u63615-4.png" crc="4123348311" ref="news2"/>
+    <file name="u63664-4.png" crc="201160939" ref="news2"/>
+    <file name="u63643-4.png" crc="3933043718" ref="news2"/>
+    <file name="u63629-4.png" crc="4243866924" ref="news2"/>
+    <file name="arquivos-favicon.ico" crc="109684085" ref="arquivos"/>
+    <file name="u62674-4.png" crc="4247561202" ref="arquivos"/>
+    <file name="u62658-4.png" crc="4043730023" ref="arquivos"/>
+    <file name="u62687-4.png" crc="379348789" ref="arquivos"/>
+    <file name="u62692-4.png" crc="503520057" ref="arquivos"/>
+    <file name="u62706-4.png" crc="114710934" ref="arquivos"/>
+    <file name="u62654-4.png" crc="4123348311" ref="arquivos"/>
+    <file name="u62703-4-a.png" crc="201160939" ref="arquivos"/>
+    <file name="u62682-4.png" crc="3933043718" ref="arquivos"/>
+    <file name="u62668-4.png" crc="4243866924" ref="arquivos"/>
+    <file name="u39642-5.png" crc="4209466197" ref="arquivos"/>
+    <file name="pdf.png" crc="3866684678" seo="true" ref="arquivos"/>
+    <file name="u39624-8.png" crc="3974434718" ref="arquivos"/>
+    <file name="u39637-8.png" crc="243483410" ref="arquivos"/>
+    <file name="u39638-8.png" crc="3900388550" ref="arquivos"/>
+    <file name="u39639-7.png" crc="488537347" ref="arquivos"/>
+    <file name="u39640-9.png" crc="3963356495" ref="arquivos"/>
+    <file name="u60379-9.png" crc="4269012913" ref="arquivos"/>
+    <file name="u38209-10.png" crc="478847538" ref="arquivos"/>
+    <file name="2º-congresso-da-rede-já-tem-local-definido-favicon.ico" crc="109684085" ref="news3"/>
+    <file name="u63827-4.png" crc="4247561202" ref="news3"/>
+    <file name="u63811-4.png" crc="4043730023" ref="news3"/>
+    <file name="u63840-4.png" crc="379348789" ref="news3"/>
+    <file name="u63845-4.png" crc="503520057" ref="news3"/>
+    <file name="u63859-4.png" crc="114710934" ref="news3"/>
+    <file name="u63807-4.png" crc="4123348311" ref="news3"/>
+    <file name="u63856-4.png" crc="201160939" ref="news3"/>
+    <file name="u63835-4.png" crc="3933043718" ref="news3"/>
+    <file name="u63821-4.png" crc="4243866924" ref="news3"/>
+    <file name="u65014-6.png" crc="24355364" ref="news3"/>
+    <file name="u39815-4.png" crc="68118515" ref="news3"/>
+    <file name="u39816-38.png" crc="63448090" ref="news3"/>
+    <file name="u44588_states.png" crc="401352356" ref="news3"/>
+    <file name="u44588_states-r.png" crc="115901343" ref="news3"/>
+    <file name="u44589_states.png" crc="4158508492" ref="news3"/>
+    <file name="u44589_states-r.png" crc="3767004540" ref="news3"/>
+    <file name="u44661-4.png" crc="512124188" ref="news3"/>
+    <file name="u39817-10.png" crc="478847538" ref="news3"/>
+    <file name="inscrições-para-3º-encontro-juventude-favicon.ico" crc="109684085" ref="news4"/>
+    <file name="u64019-4.png" crc="4247561202" ref="news4"/>
+    <file name="u64003-4.png" crc="4043730023" ref="news4"/>
+    <file name="u64032-4.png" crc="379348789" ref="news4"/>
+    <file name="u64037-4.png" crc="503520057" ref="news4"/>
+    <file name="u64051-4.png" crc="114710934" ref="news4"/>
+    <file name="u63999-4.png" crc="4123348311" ref="news4"/>
+    <file name="u64048-4.png" crc="201160939" ref="news4"/>
+    <file name="u64027-4.png" crc="3933043718" ref="news4"/>
+    <file name="u64013-4.png" crc="4243866924" ref="news4"/>
+    <file name="u65005-6.png" crc="24355364" ref="news4"/>
+    <file name="u42714-4.png" crc="4077735331" ref="news4"/>
+    <file name="u42715-41.png" crc="3759144649" ref="news4"/>
+    <file name="u44664-4.png" crc="512124188" ref="news4"/>
+    <file name="u43823-10.png" crc="478847538" ref="news4"/>
+    <file name="u44594_states.png" crc="401352356" ref="news4"/>
+    <file name="u44594_states-r.png" crc="115901343" ref="news4"/>
+    <file name="u44595_states.png" crc="4158508492" ref="news4"/>
+    <file name="u44595_states-r.png" crc="3767004540" ref="news4"/>
+    <file name="tese--e-prif-favicon.ico" crc="109684085" ref="tese--e-prif"/>
+    <file name="u62866-4.png" crc="4247561202" ref="tese--e-prif"/>
+    <file name="u62850-4.png" crc="4043730023" ref="tese--e-prif"/>
+    <file name="u62879-4.png" crc="379348789" ref="tese--e-prif"/>
+    <file name="u62884-4.png" crc="503520057" ref="tese--e-prif"/>
+    <file name="u62898-4.png" crc="114710934" ref="tese--e-prif"/>
+    <file name="u62846-4.png" crc="4123348311" ref="tese--e-prif"/>
+    <file name="u62895-4.png" crc="201160939" ref="tese--e-prif"/>
+    <file name="u62874-4-a.png" crc="3933043718" ref="tese--e-prif"/>
+    <file name="u62860-4.png" crc="4243866924" ref="tese--e-prif"/>
+    <file name="u45811-5.png" crc="4039360390" ref="tese--e-prif"/>
+    <file name="u46167-18.png" crc="235239066" ref="tese--e-prif"/>
+    <file name="u45809-10.png" crc="478847538" ref="tese--e-prif"/>
+    <file name="u46169_states.png" crc="80015991" ref="tese--e-prif"/>
+    <file name="u46169_states-r.png" crc="3785452755" ref="tese--e-prif"/>
+    <file name="inscreva-se-favicon.ico" crc="109684085" ref="inscreva-se"/>
+    <file name="u64248-4.png" crc="4247561202" ref="inscreva-se"/>
+    <file name="u64241-4.png" crc="4043730023" ref="inscreva-se"/>
+    <file name="u64194-4.png" crc="379348789" ref="inscreva-se"/>
+    <file name="u64207-4.png" crc="503520057" ref="inscreva-se"/>
+    <file name="u64212-4.png" crc="114710934" ref="inscreva-se"/>
+    <file name="u64227-4.png" crc="4123348311" ref="inscreva-se"/>
+    <file name="u64232-4.png" crc="201160939" ref="inscreva-se"/>
+    <file name="u64197-4.png" crc="3933043718" ref="inscreva-se"/>
+    <file name="u64221-4.png" crc="4243866924" ref="inscreva-se"/>
+    <file name="u47236-5.png" crc="517306558" ref="inscreva-se"/>
+    <file name="u47551-5.png" crc="3829498975" ref="inscreva-se"/>
+    <file name="u47549-33.png" crc="338838222" ref="inscreva-se"/>
+    <file name="u47550-5.png" crc="3845233693" ref="inscreva-se"/>
+    <file name="u47552-16.png" crc="76295229" ref="inscreva-se"/>
+    <file name="u47560-6.png" crc="3932597044" ref="inscreva-se"/>
+    <file name="u47559-7.png" crc="4077679017" ref="inscreva-se"/>
+    <file name="u47570-6.png" crc="121408345" ref="inscreva-se"/>
+    <file name="u47572.png" crc="4109181363" ref="inscreva-se"/>
+    <file name="u47572-r.png" crc="3835297942" ref="inscreva-se"/>
+    <file name="u47235-10.png" crc="478847538" ref="inscreva-se"/>
+    <file name="2º-congresso-da-rede-conta-com-número-de-whatsapp-favicon.ico" crc="109684085" ref="news5"/>
+    <file name="u66142-4.png" crc="4247561202" ref="news5"/>
+    <file name="u66101-4.png" crc="4043730023" ref="news5"/>
+    <file name="u66122-4.png" crc="379348789" ref="news5"/>
+    <file name="u66127-4.png" crc="503520057" ref="news5"/>
+    <file name="u66089-4.png" crc="114710934" ref="news5"/>
+    <file name="u66094-4.png" crc="4123348311" ref="news5"/>
+    <file name="u66134-4.png" crc="201160939" ref="news5"/>
+    <file name="u66114-4.png" crc="3933043718" ref="news5"/>
+    <file name="u66108-4.png" crc="4243866924" ref="news5"/>
+    <file name="u65021-6.png" crc="24355364" ref="news5"/>
+    <file name="u66146-4.png" crc="311890453" ref="news5"/>
+    <file name="u66152-19.png" crc="3923927401" ref="news5"/>
+    <file name="u66080-4.png" crc="512124188" ref="news5"/>
+    <file name="u66147-10.png" crc="478847538" ref="news5"/>
+    <file name="propostas-dos-filiados-e-teses-devem-ser-enviadas-até-20-de-fevereiro-favicon.ico" crc="109684085" ref="news6"/>
+    <file name="u68759-4.png" crc="4247561202" ref="news6"/>
+    <file name="u68766-4.png" crc="4043730023" ref="news6"/>
+    <file name="u68794-4.png" crc="379348789" ref="news6"/>
+    <file name="u68801-4.png" crc="503520057" ref="news6"/>
+    <file name="u68782-4.png" crc="114710934" ref="news6"/>
+    <file name="u68753-4.png" crc="4123348311" ref="news6"/>
+    <file name="u68773-4.png" crc="201160939" ref="news6"/>
+    <file name="u68808-4.png" crc="3933043718" ref="news6"/>
+    <file name="u68786-4.png" crc="4243866924" ref="news6"/>
+    <file name="u68741-6.png" crc="24355364" ref="news6"/>
+    <file name="u68745-4.png" crc="108267812" ref="news6"/>
+    <file name="u68742-22.png" crc="4256690473" ref="news6"/>
+    <file name="u68740-4.png" crc="512124188" ref="news6"/>
+    <file name="u69872-10.png" crc="478847538" ref="news6"/>
+    <file name="u68743_states.png" crc="233226183" ref="news6"/>
+    <file name="u68743_states-r.png" crc="32908685" ref="news6"/>
+    <file name="elo-mulheres-promove-1º-encontro-nacional-durante-congresso-da-rede-favicon.ico" crc="109684085" ref="news7"/>
+    <file name="u70429-4.png" crc="4247561202" ref="news7"/>
+    <file name="u70415-4.png" crc="4043730023" ref="news7"/>
+    <file name="u70405-4.png" crc="379348789" ref="news7"/>
+    <file name="u70389-4.png" crc="503520057" ref="news7"/>
+    <file name="u70373-4.png" crc="114710934" ref="news7"/>
+    <file name="u70381-4.png" crc="4123348311" ref="news7"/>
+    <file name="u70424-4.png" crc="201160939" ref="news7"/>
+    <file name="u70412-4.png" crc="3933043718" ref="news7"/>
+    <file name="u70397-4.png" crc="4243866924" ref="news7"/>
+    <file name="u71495-6.png" crc="24355364" ref="news7"/>
+    <file name="u70434-4.png" crc="3961902187" ref="news7"/>
+    <file name="u70366-26.png" crc="4058617415" ref="news7"/>
+    <file name="u70367-4.png" crc="512124188" ref="news7"/>
+    <file name="u71496-10.png" crc="478847538" ref="news7"/>
+    <file name="u75506_states.png" crc="4158508492" ref="news7"/>
+    <file name="u75506_states-r.png" crc="3767004540" ref="news7"/>
+    <file name="filiados-poderão-acompanhar-2º-congresso-como-observadores-favicon.ico" crc="109684085" ref="news8"/>
+    <file name="u75174-4.png" crc="4247561202" ref="news8"/>
+    <file name="u75211-4.png" crc="4043730023" ref="news8"/>
+    <file name="u75180-4.png" crc="379348789" ref="news8"/>
+    <file name="u75153-4.png" crc="503520057" ref="news8"/>
+    <file name="u75161-4.png" crc="114710934" ref="news8"/>
+    <file name="u75165-4.png" crc="4123348311" ref="news8"/>
+    <file name="u75202-4.png" crc="201160939" ref="news8"/>
+    <file name="u75189-4.png" crc="3933043718" ref="news8"/>
+    <file name="u75195-4.png" crc="4243866924" ref="news8"/>
+    <file name="u74085-6.png" crc="24355364" ref="news8"/>
+    <file name="u75212-4.png" crc="443062081" ref="news8"/>
+    <file name="u75147-23.png" crc="3840960393" ref="news8"/>
+    <file name="u74086-4.png" crc="512124188" ref="news8"/>
+    <file name="u75144-10.png" crc="478847538" ref="news8"/>
+    <file name="u75143_states.png" crc="4158508492" ref="news8"/>
+    <file name="u75143_states-r.png" crc="3767004540" ref="news8"/>
+  </folder>
+  <file name="index.html" crc="4190773530" seo="true" mt="1455636049680" redirect="true"/>
+  <file name="contatos.html" crc="202018855" seo="true" mt="1455559625184" redirect="true"/>
+  <file name="noticias.html" crc="3877676031" seo="true" mt="1455638606337" redirect="true"/>
+  <file name="news1.html" crc="4204146391" seo="true" mt="1455561995375" redirect="true"/>
+  <file name="news2.html" crc="173574134" seo="true" mt="1455562018199" redirect="true"/>
+  <file name="arquivos.html" crc="4220968146" seo="true" mt="1455559734165" redirect="true"/>
+  <file name="news3.html" crc="3765437729" seo="true" mt="1455562079647" redirect="true"/>
+  <file name="news4.html" crc="223722383" seo="true" mt="1455561971234" redirect="true"/>
+  <file name="tese--e-prif.html" crc="4073372196" seo="true" mt="1455559760110" redirect="true"/>
+  <file name="inscreva-se.html" crc="370386020" seo="true" mt="1455559862650" redirect="true"/>
+  <file name="news5.html" crc="3980329685" seo="true" mt="1455638423880" redirect="true"/>
+  <file name="news6.html" crc="131578293" seo="true" mt="1455565949811" redirect="true"/>
+  <file name="news7.html" crc="90666680" seo="true" mt="1455638308489" redirect="true"/>
+  <file name="news8.html" crc="100947280" seo="true" mt="1455635819774" redirect="true"/>
+</manifest>
