@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455622454794">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455627453794">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="arquivos.css" crc="3858775081" ref="arquivos"/>
@@ -15,11 +15,10 @@
     <file name="news6.css" crc="4153615609" ref="news6"/>
   </folder>
   <folder name="scripts">
-    <file name="museredirect.js" crc="3985760531" ref="tablet>index"/>
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="museutils.js" crc="4190794036" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="whatinput.js" crc="84559013" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
-    <file name="jquery.watch.js" crc="349565855" ref="tablet>index:index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="museutils.js" crc="4190794036" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="jquery.musemenu.js" crc="3866264083" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="jquery.scrolleffects.js" crc="3837774061" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:tese--e-prif:inscreva-se:news5:news6"/>
@@ -331,13 +330,7 @@
     <file name="u68743_states.png" crc="233226183" ref="news6"/>
     <file name="u68743_states-r.png" crc="32908685" ref="news6"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="4129362348" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="438775446" seo="true" mt="1455622412969" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="383010907" seo="true" mt="1455622412967" redirect="true"/>
+  <file name="index.html" crc="3983326042" seo="true" mt="1455627102110" redirect="true"/>
   <file name="contatos.html" crc="105474940" seo="true" mt="1455559625184" redirect="true"/>
   <file name="noticias.html" crc="357026482" seo="true" mt="1455622303103" redirect="true"/>
   <file name="news1.html" crc="4204146391" seo="true" mt="1455561995375" redirect="true"/>
