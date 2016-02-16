@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #6B8207;
+	color: #0000E9;
+	background-color: #409DD2;
 }
 
 #page
@@ -3071,21 +3071,20 @@
 	margin-right: -10000px;
 	margin-top: 891px;
 	left: 796px;
-	padding: 22px 7px 19.200000000000273px 14px;
+	padding: 23px 7px 19.024999999999864px 14px;
 }
 
-#u70233-4
+#u70227-4
 {
-	z-index: 474;
-	left: -1px;
+	z-index: 462;
 	position: relative;
 }
 
 #u70234-4
 {
-	z-index: 478;
+	z-index: 470;
 	margin-left: 11px;
-	margin-top: 22px;
+	margin-top: 43px;
 	position: relative;
 }
 
@@ -3119,18 +3118,18 @@
 #u70226
 {
 	z-index: 461;
-	width: 279px;
+	width: 281px;
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 891px;
 	left: 430px;
-	padding: 23px 10px 19px 11px;
+	padding: 23px 8px 19.012500000000045px 11px;
 }
 
-#u70227-4
+#u70294-4
 {
-	z-index: 462;
+	z-index: 476;
 	left: -1px;
 	position: relative;
 }
@@ -3138,34 +3137,34 @@
 #u70228-4
 {
 	z-index: 466;
-	margin-left: 20px;
+	margin-left: 22px;
 	margin-top: 43px;
 	position: relative;
 }
 
-#u70229
+#u70287
 {
-	z-index: 470;
-	width: 322px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 693px;
-	left: 785px;
-}
-
-#u70231
-{
-	z-index: 472;
+	z-index: 474;
 	width: 322px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 691px;
-	left: 419px;
+	left: 785px;
 }
 
-#u70258
+#u70307
+{
+	z-index: 480;
+	width: 322px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 691px;
+	left: 53px;
+}
+
+#u70315
 {
 	z-index: 482;
 	width: 322px;
@@ -3173,7 +3172,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 691px;
-	left: 53px;
+	left: 419px;
 }
 
 #pconvidados
@@ -3366,7 +3365,7 @@
 	left: 71px;
 }
 
-#u11801-6_img,#u70233-4_img,#u70234-4_img,#u38102-4_img,#u38103-4_img,#u70227-4_img,#u70228-4_img,#u8847-10_img
+#u11801-6_img,#u70227-4_img,#u70234-4_img,#u38102-4_img,#u38103-4_img,#u70294-4_img,#u70228-4_img,#u8847-10_img
 {
 	display: block;
 	vertical-align: top;
