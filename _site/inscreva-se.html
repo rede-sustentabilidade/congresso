@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "inscreva-se.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "inscreva-se.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -1024,14 +1024,16 @@
         <div class="position_content" id="u47568_position_content">
          <div class="clearfix colelem" id="pu47559-7"><!-- group -->
           <img class="grpelem" id="u47559-7" alt="Para a participação dos inscritos como Observadores, será cobrada uma taxa de R$ 100,00(Cem Reais). Essa taxa foi calculada para cobrir os custos de participação e nele estão inclusos todos os itens do Kit Congressista, discriminado acima. " width="912" height="188" src="images/u47559-7.png"/><!-- rasterized frame -->
-          <div class="grpelem" id="u47571"><!-- simple frame --></div>
+          <!-- m_editable region-id="editable-static-tag-U47571" template="inscreva-se.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+          <a class="nonblock nontext grpelem" id="u47571" href="https://docs.google.com/forms/d/1iW3v93ujCsbuv2XKQ9TfmAGasv1-nIIT3EAKmdKGcgs/viewform" data-muse-uid="U47571"><!-- simple frame --></a>
+          <!-- /m_editable -->
          </div>
          <a class="nonblock nontext colelem" id="u47570-6" href="https://docs.google.com/forms/d/1iW3v93ujCsbuv2XKQ9TfmAGasv1-nIIT3EAKmdKGcgs/viewform"><!-- rasterized frame --><img id="u47570-6_img" alt="Preencha o formulário para garantir sua participação! Inscrições válidas até 17 de Fevereiro " width="460" height="44" src="images/u47570-6.png"/></a>
         </div>
        </div>
       </div>
      </div>
-     <a class="nonblock nontext grpelem" id="u47572" href="https://docs.google.com/forms/d/1RoWwYsL5l6ypeXtZWWjN3GCknF5tflspP9wii9_aXos/viewform"><!-- state-based BG images --><img id="u47572_states" alt="FORMULÁRIO para INSCRIÇÃO" src="images/blank.gif"/></a>
+     <a class="nonblock nontext grpelem" id="u47572" href="https://docs.google.com/forms/d/1iW3v93ujCsbuv2XKQ9TfmAGasv1-nIIT3EAKmdKGcgs/viewform"><!-- state-based BG images --><img id="u47572_states" alt="FORMULÁRIO para INSCRIÇÃO" src="images/blank.gif"/></a>
     </div>
     <div class="clearfix colelem" id="pu47233"><!-- group -->
      <!-- m_editable region-id="editable-static-tag-U47233-BP_infinity" template="inscreva-se.html" data-type="image" data-ice-options="clickable" data-ice-editable="link" -->
@@ -1103,9 +1105,9 @@ Muse.Utils.initWidget('#slideshowu46998', ['#bp_infinity'], function(elem) { var
 Muse.Utils.initWidget('#slideshowu46890', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:1500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu46890 */
 Muse.Utils.initWidget('#slideshowu46216', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:1500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu46216 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u47230-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
-$('#u47232-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,299.87]},{"speed":[null,0],"in":[299.87,Infinity]}]);/* scroll effect */
-$('#menuu64187').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,299.85]},{"speed":[0,0],"in":[299.85,Infinity]}]);/* scroll effect */
+$('#u47230-bw').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[null,0]},{"in":[0,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u47232-bw').registerPositionScrollEffect([{"in":[-Infinity,299.87],"speed":[null,1]},{"in":[299.87,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#menuu64187').registerPositionScrollEffect([{"in":[-Infinity,299.85],"speed":[0,1]},{"in":[299.85,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
