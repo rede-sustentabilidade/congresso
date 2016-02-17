@@ -1,7 +1,7 @@
 .version.news8 /* version checker */
 {
-	color: #0000FA;
-	background-color: #2C69C8;
+	color: #0000F7;
+	background-color: #68BF77;
 }
 
 #page
@@ -2809,14 +2809,21 @@
 	position: relative;
 }
 
+#pu75147-23
+{
+	width: 0.01px;
+	left: 120px;
+	margin-top: 108px;
+	position: relative;
+}
+
 #u75147-23
 {
 	z-index: 21;
 	display: block;
 	vertical-align: top;
-	left: 120px;
-	margin-top: 108px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u74086-4
@@ -2824,9 +2831,10 @@
 	z-index: 399;
 	display: block;
 	vertical-align: top;
-	left: 334px;
-	margin-top: 156px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 551px;
+	left: 218px;
 }
 
 #u75145
@@ -2837,8 +2845,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	left: 426px;
-	margin-top: 4px;
+	left: 430px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -2846,7 +2854,7 @@
 {
 	width: 0.01px;
 	left: 389px;
-	margin-top: 115px;
+	margin-top: 302px;
 	position: relative;
 }
 
@@ -2888,8 +2896,8 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 938px;
-	left: 472px;
+	margin-top: 751px;
+	left: 476px;
 }
 
 #u75143_states

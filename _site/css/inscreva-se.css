@@ -1,7 +1,7 @@
 .version.inscreva_se /* version checker */
 {
-	color: #0000EE;
-	background-color: #DE2BDA;
+	color: #00000B;
+	background-color: #E853AF;
 }
 
 #page
@@ -2282,7 +2282,7 @@
 
 #u47232
 {
-	z-index: 458;
+	z-index: 457;
 	height: 41px;
 	background-color: #F7931E;
 }
@@ -2297,7 +2297,7 @@
 
 #u47232-bw
 {
-	z-index: 458;
+	z-index: 457;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -2306,7 +2306,7 @@
 
 #u64184
 {
-	z-index: 459;
+	z-index: 458;
 	width: 115px;
 	height: 41px;
 	background-color: #8C6239;
@@ -2316,7 +2316,7 @@
 
 #menuu64187
 {
-	z-index: 460;
+	z-index: 459;
 	width: 904px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2786,9 +2786,19 @@
 #u46172
 {
 	z-index: 3;
-	min-height: 200px;
+	min-height: 1044px;
 	background-color: #FFFFFF;
-	padding-bottom: 476px;
+}
+
+#u46172_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+	padding-top: 138px;
+	padding-bottom: 20px;
 }
 
 #u47236-5
@@ -2796,44 +2806,23 @@
 	z-index: 367;
 	display: block;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 138px;
 	left: 127px;
-}
-
-#u46172-bw
-{
-	z-index: 3;
-	min-height: 200px;
-}
-
-#u47566
-{
-	z-index: 372;
-	min-height: 458px;
-	background-color: #FFFFFF;
-}
-
-#u47566_position_content
-{
-	margin-bottom: -90px;
-	padding-top: 137px;
-	width: 100%;
+	position: relative;
 }
 
 #u47551-5
 {
-	z-index: 412;
+	z-index: 411;
 	display: block;
 	vertical-align: top;
 	left: 135px;
+	margin-top: 413px;
 	position: relative;
 }
 
 #u47549-33
 {
-	z-index: 374;
+	z-index: 373;
 	display: block;
 	vertical-align: top;
 	left: 135px;
@@ -2842,16 +2831,15 @@
 	position: relative;
 }
 
-#u47566-bw
+#u46172-bw
 {
-	z-index: 372;
-	min-height: 458px;
-	margin-top: 476px;
+	z-index: 3;
+	min-height: 1044px;
 }
 
 #u47548
 {
-	z-index: 373;
+	z-index: 372;
 	min-height: 277px;
 	background-color: #F7931E;
 }
@@ -2869,7 +2857,7 @@
 
 #u47550-5
 {
-	z-index: 407;
+	z-index: 406;
 	display: block;
 	vertical-align: top;
 	left: 135px;
@@ -2878,7 +2866,7 @@
 
 #u47552-16
 {
-	z-index: 417;
+	z-index: 416;
 	display: block;
 	vertical-align: top;
 	left: 135px;
@@ -2888,22 +2876,32 @@
 
 #u47548-bw
 {
-	z-index: 373;
+	z-index: 372;
 	min-height: 277px;
 	margin-top: 306px;
 }
 
 #u47558
 {
-	z-index: 433;
+	z-index: 432;
 	min-height: 63px;
 	background-color: #F7931E;
 	padding-bottom: 105px;
 }
 
+#u47558_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+	margin-bottom: -4px;
+}
+
 #u47560-6
 {
-	z-index: 442;
+	z-index: 441;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -2914,9 +2912,9 @@
 
 #u47558-bw
 {
-	z-index: 433;
+	z-index: 432;
 	min-height: 63px;
-	margin-top: 106px;
+	margin-top: -4px;
 }
 
 #pu47568
@@ -2928,13 +2926,13 @@
 
 #u47568
 {
-	z-index: 434;
+	z-index: 433;
 	min-height: 508.8125px;
 	background-color: #FFFFFF;
 	padding-bottom: 0px;
 }
 
-#u46172_align_to_page,#u47566_align_to_page,#u47558_align_to_page,#u47568_align_to_page
+#u47568_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -2959,7 +2957,7 @@
 
 #u47559-7
 {
-	z-index: 435;
+	z-index: 434;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -2968,7 +2966,7 @@
 
 #u47571
 {
-	z-index: 454;
+	z-index: 453;
 	width: 439px;
 	height: 181px;
 	border-style: solid;
@@ -2984,7 +2982,7 @@
 
 #u47570-6
 {
-	z-index: 448;
+	z-index: 447;
 	left: 359px;
 	margin-top: 10px;
 	position: relative;
@@ -2992,26 +2990,32 @@
 
 #u47568-bw
 {
-	z-index: 434;
+	z-index: 433;
 	min-height: 508.8125px;
 }
 
 #u47572
 {
-	z-index: 456;
-	height: 178px;
+	z-index: 455;
 	width: 444px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 37px;
 	left: 367px;
-	background: url("../images/u47572.png") no-repeat 0px 0px;
 }
 
-#u47572:hover
+#u47572_states
 {
-	background: url("../images/u47572-r.png") no-repeat 0px 0px;
+	float: left;
+	width: 444px;
+	height: 178px;
+	background: url("../images/u47572_states.png") no-repeat 0px 0px;
+}
+
+#u47572:hover #u47572_states
+{
+	background: url("../images/u47572_states-r.png") no-repeat 0px 0px;
 }
 
 #pu47233
