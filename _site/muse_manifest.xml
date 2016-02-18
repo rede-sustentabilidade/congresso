@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455739008543">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1455796448818">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="208691389" ref="news3"/>
     <file name="news6.css" crc="4153615609" ref="news6"/>
-    <file name="index.css" crc="257659026" ref="index"/>
+    <file name="index.css" crc="3858282720" ref="index"/>
     <file name="news8.css" crc="4150837111" ref="news8"/>
     <file name="news4.css" crc="350829235" ref="news4"/>
     <file name="contatos.css" crc="3898924976" ref="contatos"/>
     <file name="noticias.css" crc="3896261198" ref="noticias"/>
-    <file name="inscreva-se.css" crc="199775151" ref="inscreva-se"/>
+    <file name="inscreva-se.css" crc="392042719" ref="inscreva-se"/>
     <file name="news9.css" crc="3817880120" ref="news9"/>
     <file name="news1.css" crc="4117629862" ref="news1"/>
     <file name="news5.css" crc="4279426964" ref="news5"/>
@@ -113,8 +113,6 @@
     <file name="u64851-4.png" crc="3933043718" ref="index"/>
     <file name="u64833-4.png" crc="4243866924" ref="index"/>
     <file name="bimportante.jpg" crc="334724234" seo="true" ref="index"/>
-    <file name="inscreva.jpg" crc="196333849" seo="true" ref="index"/>
-    <file name="u11801-6.png" crc="121408345" ref="index"/>
     <file name="u7977-5.png" crc="4064886914" ref="index"/>
     <file name="u39795-5.png" crc="326110366" ref="index"/>
     <file name="u17142_states.png" crc="277023845" ref="index"/>
@@ -302,16 +300,6 @@
     <file name="u64232-4.png" crc="201160939" ref="inscreva-se"/>
     <file name="u64197-4.png" crc="3933043718" ref="inscreva-se"/>
     <file name="u64221-4.png" crc="4243866924" ref="inscreva-se"/>
-    <file name="u47236-5.png" crc="517306558" ref="inscreva-se"/>
-    <file name="u47551-5.png" crc="3829498975" ref="inscreva-se"/>
-    <file name="u47549-33.png" crc="338838222" ref="inscreva-se"/>
-    <file name="u47550-5.png" crc="3845233693" ref="inscreva-se"/>
-    <file name="u47552-16.png" crc="76295229" ref="inscreva-se"/>
-    <file name="u47560-6.png" crc="3932597044" ref="inscreva-se"/>
-    <file name="u47559-7.png" crc="4077679017" ref="inscreva-se"/>
-    <file name="u47570-6.png" crc="121408345" ref="inscreva-se"/>
-    <file name="u47572_states.png" crc="4109181363" ref="inscreva-se"/>
-    <file name="u47572_states-r.png" crc="3835297942" ref="inscreva-se"/>
     <file name="u47235-10.png" crc="478847538" ref="inscreva-se"/>
     <file name="2º-congresso-da-rede-conta-com-número-de-whatsapp-favicon.ico" crc="109684085" ref="news5"/>
     <file name="u66142-4.png" crc="4247561202" ref="news5"/>
@@ -394,9 +382,11 @@
     <file name="u76863-31.png" crc="3888865766" ref="news9"/>
     <file name="u76859-4.png" crc="512124188" ref="news9"/>
     <file name="u76862-10.png" crc="478847538" ref="news9"/>
+    <file name="u11801-9.png" crc="3889389663" ref="index"/>
+    <file name="u47236-9.png" crc="4190010305" ref="inscreva-se"/>
   </folder>
-  <file name="index.html" crc="524870624" seo="true" mt="1455738855930" redirect="true"/>
-  <file name="contatos.html" crc="50259412" seo="true" mt="1455738833199" redirect="true"/>
+  <file name="index.html" crc="286277947" seo="true" mt="1455796431659" redirect="true"/>
+  <file name="contatos.html" crc="50259412" seo="true" mt="1455796347846" redirect="true"/>
   <file name="noticias.html" crc="4156518168" seo="true" mt="1455730862891" redirect="true"/>
   <file name="news1.html" crc="423467993" seo="true" mt="1455561995375" redirect="true"/>
   <file name="news2.html" crc="3925029624" seo="true" mt="1455562018199" redirect="true"/>
@@ -404,7 +394,7 @@
   <file name="news3.html" crc="64729135" seo="true" mt="1455562079647" redirect="true"/>
   <file name="news4.html" crc="241613912" seo="true" mt="1455561971234" redirect="true"/>
   <file name="tese--e-prif.html" crc="365051678" seo="true" mt="1455559760110" redirect="true"/>
-  <file name="inscreva-se.html" crc="4208838022" seo="true" mt="1455738931652" redirect="true"/>
+  <file name="inscreva-se.html" crc="305473161" seo="true" mt="1455737497368" redirect="true"/>
   <file name="news5.html" crc="3993765122" seo="true" mt="1455638423880" redirect="true"/>
   <file name="news6.html" crc="82099810" seo="true" mt="1455565949811" redirect="true"/>
   <file name="news7.html" crc="106197359" seo="true" mt="1455638308489" redirect="true"/>
