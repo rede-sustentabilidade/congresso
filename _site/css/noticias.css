@@ -1,7 +1,7 @@
 .version.noticias /* version checker */
 {
-	color: #0000E8;
-	background-color: #3C3A4E;
+	color: #0000FB;
+	background-color: #6FE16F;
 }
 
 #page
@@ -2303,70 +2303,78 @@
 	top: 300px;
 }
 
-#menuu64574
+#menuu80658
 {
 	z-index: 502;
-	width: 904px;
+	width: 960px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
 	top: 300px;
-	left: 28px;
+	left: 0px;
 }
 
-#u64617
+#u80673
 {
-	width: 113px;
+	width: 167px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u64618
+#u80676
 {
-	width: 113px;
+	width: 167px;
 	background-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
 }
 
-#u64618:hover
+#u80676:hover
 {
 	background-color: #F7841E;
-	width: 113px;
+	width: 167px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64618:active
+#u80676:active
 {
 	background-color: #8C6239;
-	width: 113px;
+	width: 167px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64618.MuseMenuActive
+#u80676.MuseMenuActive
 {
-	background-color: #999999;
-	width: 113px;
+	background-color: #8C6239;
+	width: 167px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64624
+#u80679-4_clip
+{
+	overflow: hidden;
+	width: 140px;
+	height: 17px;
+	vertical-align: top;
+}
+
+#u80659
 {
 	width: 78px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 115px;
+	left: 169px;
 }
 
-#u64627
+#u80662
 {
 	width: 78px;
 	background-color: transparent;
@@ -2374,7 +2382,7 @@
 	position: relative;
 }
 
-#u64627:hover
+#u80662:hover
 {
 	background-color: #F7841E;
 	width: 78px;
@@ -2382,7 +2390,7 @@
 	margin: 0px;
 }
 
-#u64627:active
+#u80662:active
 {
 	background-color: #8C6239;
 	width: 78px;
@@ -2390,15 +2398,15 @@
 	margin: 0px;
 }
 
-#u64627.MuseMenuActive
+#u80662.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #8C6239;
 	width: 78px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64630-4
+#u80665-4
 {
 	position: relative;
 	margin-right: -10000px;
@@ -2406,7 +2414,7 @@
 	left: 13px;
 }
 
-#u64630-4_clip
+#u80665-4_clip
 {
 	overflow: hidden;
 	width: 51px;
@@ -2414,17 +2422,17 @@
 	vertical-align: top;
 }
 
-#u64575
+#u80708
 {
 	width: 92px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 195px;
+	left: 249px;
 }
 
-#u64578
+#u80711
 {
 	width: 92px;
 	background-color: transparent;
@@ -2432,7 +2440,7 @@
 	position: relative;
 }
 
-#u64578:hover
+#u80711:hover
 {
 	background-color: #F7841E;
 	width: 92px;
@@ -2440,7 +2448,7 @@
 	margin: 0px;
 }
 
-#u64578:active
+#u80711:active
 {
 	background-color: #8C6239;
 	width: 92px;
@@ -2448,15 +2456,15 @@
 	margin: 0px;
 }
 
-#u64578.MuseMenuActive
+#u80711.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #8C6239;
 	width: 92px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64580-4_clip
+#u80714-4_clip
 {
 	overflow: hidden;
 	width: 65px;
@@ -2464,17 +2472,17 @@
 	vertical-align: top;
 }
 
-#u64631
+#u80694
 {
 	width: 136px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 289px;
+	left: 343px;
 }
 
-#u64632
+#u80695
 {
 	width: 136px;
 	background-color: transparent;
@@ -2482,7 +2490,7 @@
 	position: relative;
 }
 
-#u64632:hover
+#u80695:hover
 {
 	background-color: #F7841E;
 	width: 136px;
@@ -2490,7 +2498,7 @@
 	margin: 0px;
 }
 
-#u64632:active
+#u80695:active
 {
 	background-color: #8C6239;
 	width: 136px;
@@ -2498,15 +2506,15 @@
 	margin: 0px;
 }
 
-#u64632.MuseMenuActive
+#u80695.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #8C6239;
 	width: 136px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64635-4
+#u80697-4
 {
 	position: relative;
 	margin-right: -10000px;
@@ -2514,7 +2522,7 @@
 	left: 13px;
 }
 
-#u64635-4_clip
+#u80697-4_clip
 {
 	overflow: hidden;
 	width: 109px;
@@ -2522,49 +2530,49 @@
 	vertical-align: top;
 }
 
-#u64596
+#u80666
 {
-	width: 112px;
+	width: 113px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 427px;
+	left: 481px;
 }
 
-#u64597
+#u80669
 {
-	width: 112px;
+	width: 113px;
 	background-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
 }
 
-#u64597:hover
+#u80669:hover
 {
 	background-color: #F7841E;
-	width: 112px;
+	width: 113px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64597:active
+#u80669:active
 {
 	background-color: #8C6239;
-	width: 112px;
+	width: 113px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64597.MuseMenuActive
+#u80669.MuseMenuActive
 {
-	background-color: #999999;
-	width: 112px;
+	background-color: #8C6239;
+	width: 113px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64619-4_clip,#u64598-4_clip
+#u80670-4_clip
 {
 	overflow: hidden;
 	width: 86px;
@@ -2572,49 +2580,49 @@
 	vertical-align: top;
 }
 
-#u64610
+#u80680
 {
-	width: 65px;
+	width: 66px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 541px;
+	left: 596px;
 }
 
-#u64613
+#u80683
 {
-	width: 65px;
+	width: 66px;
 	background-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
 }
 
-#u64613:hover
+#u80683:hover
 {
 	background-color: #F7841E;
-	width: 65px;
+	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64613:active
+#u80683:active
 {
 	background-color: #8C6239;
-	width: 65px;
+	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64613.MuseMenuActive
+#u80683.MuseMenuActive
 {
-	background-color: #999999;
-	width: 65px;
+	background-color: #8C6239;
+	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u64614-4_clip
+#u80684-4_clip
 {
 	overflow: hidden;
 	width: 39px;
@@ -2622,17 +2630,17 @@
 	vertical-align: top;
 }
 
-#u64603
+#u80715
 {
 	width: 96px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 608px;
+	left: 664px;
 }
 
-#u64604
+#u80718
 {
 	width: 96px;
 	background-color: transparent;
@@ -2640,7 +2648,7 @@
 	position: relative;
 }
 
-#u64604:hover
+#u80718:hover
 {
 	background-color: #F7841E;
 	width: 96px;
@@ -2648,7 +2656,7 @@
 	margin: 0px;
 }
 
-#u64604:active
+#u80718:active
 {
 	background-color: #8C6239;
 	width: 96px;
@@ -2656,7 +2664,7 @@
 	margin: 0px;
 }
 
-#u64606-4_clip
+#u80719-4_clip
 {
 	overflow: hidden;
 	width: 70px;
@@ -2664,17 +2672,17 @@
 	vertical-align: top;
 }
 
-#u64589
+#u80701
 {
 	width: 103px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 706px;
+	left: 762px;
 }
 
-#u64590
+#u80702
 {
 	width: 103px;
 	background-color: transparent;
@@ -2682,7 +2690,7 @@
 	position: relative;
 }
 
-#u64590:hover
+#u80702:hover
 {
 	background-color: #F7841E;
 	width: 103px;
@@ -2690,7 +2698,7 @@
 	margin: 0px;
 }
 
-#u64590:active
+#u80702:active
 {
 	background-color: #8C6239;
 	width: 103px;
@@ -2698,7 +2706,7 @@
 	margin: 0px;
 }
 
-#u64592-4_clip
+#u80704-4_clip
 {
 	overflow: hidden;
 	width: 77px;
@@ -2706,17 +2714,17 @@
 	vertical-align: top;
 }
 
-#u64582
+#u80687
 {
 	width: 93px;
 	min-height: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 811px;
+	left: 867px;
 }
 
-#u64583
+#u80688
 {
 	width: 93px;
 	background-color: transparent;
@@ -2724,7 +2732,7 @@
 	position: relative;
 }
 
-#u64583:hover
+#u80688:hover
 {
 	background-color: #F7841E;
 	width: 93px;
@@ -2732,7 +2740,7 @@
 	margin: 0px;
 }
 
-#u64583:active
+#u80688:active
 {
 	background-color: #8C6239;
 	width: 93px;
@@ -2740,7 +2748,7 @@
 	margin: 0px;
 }
 
-#u64619-4,#u64580-4,#u64598-4,#u64614-4,#u64606-4,#u64592-4,#u64584-4
+#u80679-4,#u80714-4,#u80670-4,#u80684-4,#u80719-4,#u80704-4,#u80690-4
 {
 	position: relative;
 	margin-right: -10000px;
@@ -2748,7 +2756,7 @@
 	left: 13px;
 }
 
-#u64584-4_clip
+#u80690-4_clip
 {
 	overflow: hidden;
 	width: 67px;
@@ -2756,7 +2764,7 @@
 	vertical-align: top;
 }
 
-#u64619-4_img,#u64630-4_img,#u64580-4_img,#u64635-4_img,#u64598-4_img,#u64614-4_img,#u64606-4_img,#u64592-4_img,#u64584-4_img
+#u80679-4_img,#u80665-4_img,#u80714-4_img,#u80697-4_img,#u80670-4_img,#u80684-4_img,#u80719-4_img,#u80704-4_img,#u80690-4_img
 {
 	display: block;
 }
@@ -3311,7 +3319,7 @@
 	background-color: #8C6239;
 	position: relative;
 	margin-right: -10000px;
-	left: 323px;
+	left: 349px;
 }
 
 #muse_css_mq,.html
