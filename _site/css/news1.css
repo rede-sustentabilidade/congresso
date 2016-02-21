@@ -1,7 +1,7 @@
 .version.news1 /* version checker */
 {
-	color: #00001C;
-	background-color: #75903E;
+	color: #000018;
+	background-color: #B0B165;
 }
 
 #page
@@ -2306,13 +2306,13 @@
 #menuu78930
 {
 	z-index: 394;
-	width: 960px;
+	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
 	top: 300px;
-	left: 0px;
+	left: 53px;
 }
 
 #u78945
@@ -2672,48 +2672,6 @@
 	vertical-align: top;
 }
 
-#u78973
-{
-	width: 103px;
-	min-height: 41px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 762px;
-}
-
-#u78974
-{
-	width: 103px;
-	background-color: #F7931E;
-	padding-bottom: 24px;
-	position: relative;
-}
-
-#u78974:hover
-{
-	background-color: #F7841E;
-	width: 103px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u78974:active
-{
-	background-color: #8C6239;
-	width: 103px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u78976-4_clip
-{
-	overflow: hidden;
-	width: 77px;
-	height: 17px;
-	vertical-align: top;
-}
-
 #u78959
 {
 	width: 93px;
@@ -2721,7 +2679,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 867px;
+	left: 762px;
 }
 
 #u78960
@@ -2748,7 +2706,7 @@
 	margin: 0px;
 }
 
-#u78951-4,#u78986-4,#u78942-4,#u78956-4,#u78991-4,#u78976-4,#u78962-4
+#u78951-4,#u78986-4,#u78942-4,#u78956-4,#u78991-4,#u78962-4
 {
 	position: relative;
 	margin-right: -10000px;
@@ -2764,7 +2722,7 @@
 	vertical-align: top;
 }
 
-#u78951-4_img,#u78937-4_img,#u78986-4_img,#u78969-4_img,#u78942-4_img,#u78956-4_img,#u78991-4_img,#u78976-4_img,#u78962-4_img
+#u78951-4_img,#u78937-4_img,#u78986-4_img,#u78969-4_img,#u78942-4_img,#u78956-4_img,#u78991-4_img,#u78962-4_img
 {
 	display: block;
 }
@@ -2777,7 +2735,7 @@
 #u14767
 {
 	z-index: 3;
-	min-height: 900.8000000000002px;
+	min-height: 909.8000000000002px;
 	background-color: #FFFFFF;
 	padding-bottom: 0px;
 }
@@ -2814,13 +2772,26 @@
 	position: relative;
 }
 
+#u83493-4
+{
+	z-index: 443;
+	width: 143px;
+	min-height: 25px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	left: 888px;
+	margin-top: 33px;
+	position: relative;
+}
+
 #u16224-11
 {
 	z-index: 16;
 	display: block;
 	vertical-align: top;
 	left: 120px;
-	margin-top: 67px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -2883,7 +2854,7 @@
 #u14767-bw
 {
 	z-index: 3;
-	min-height: 900.8000000000002px;
+	min-height: 909.8000000000002px;
 	margin-top: 41px;
 }
 

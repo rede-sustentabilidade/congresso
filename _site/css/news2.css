@@ -1,7 +1,7 @@
 .version.news2 /* version checker */
 {
-	color: #00001D;
-	background-color: #03C910;
+	color: #0000F2;
+	background-color: #D08F38;
 }
 
 #page
@@ -2345,13 +2345,26 @@
 	position: relative;
 }
 
+#u83516-4
+{
+	z-index: 453;
+	width: 143px;
+	min-height: 25px;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	left: 877px;
+	margin-top: 69px;
+	position: relative;
+}
+
 #u17094-21
 {
 	z-index: 21;
 	display: block;
 	vertical-align: top;
 	left: 120px;
-	margin-top: 108px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -2414,13 +2427,13 @@
 #menuu79122
 {
 	z-index: 404;
-	width: 960px;
+	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
 	top: 300px;
-	left: 0px;
+	left: 53px;
 }
 
 #u79137
@@ -2780,48 +2793,6 @@
 	vertical-align: top;
 }
 
-#u79165
-{
-	width: 103px;
-	min-height: 41px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 762px;
-}
-
-#u79166
-{
-	width: 103px;
-	background-color: #F7931E;
-	padding-bottom: 24px;
-	position: relative;
-}
-
-#u79166:hover
-{
-	background-color: #F7841E;
-	width: 103px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u79166:active
-{
-	background-color: #8C6239;
-	width: 103px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u79168-4_clip
-{
-	overflow: hidden;
-	width: 77px;
-	height: 17px;
-	vertical-align: top;
-}
-
 #u79151
 {
 	width: 93px;
@@ -2829,7 +2800,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 867px;
+	left: 762px;
 }
 
 #u79152
@@ -2856,7 +2827,7 @@
 	margin: 0px;
 }
 
-#u79143-4,#u79178-4,#u79134-4,#u79148-4,#u79183-4,#u79168-4,#u79154-4
+#u79143-4,#u79178-4,#u79134-4,#u79148-4,#u79183-4,#u79154-4
 {
 	position: relative;
 	margin-right: -10000px;
@@ -2872,7 +2843,7 @@
 	vertical-align: top;
 }
 
-#u79143-4_img,#u79129-4_img,#u79178-4_img,#u79161-4_img,#u79134-4_img,#u79148-4_img,#u79183-4_img,#u79168-4_img,#u79154-4_img
+#u79143-4_img,#u79129-4_img,#u79178-4_img,#u79161-4_img,#u79134-4_img,#u79148-4_img,#u79183-4_img,#u79154-4_img
 {
 	display: block;
 }
