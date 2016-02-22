@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456079813534">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456148298870">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="4708762" ref="news3"/>
     <file name="news6.css" crc="3851812249" ref="news6"/>
-    <file name="index.css" crc="4111626785" ref="index"/>
+    <file name="index.css" crc="41408394" ref="index"/>
     <file name="news8.css" crc="494378005" ref="news8"/>
     <file name="news4.css" crc="3958108586" ref="news4"/>
     <file name="contatos.css" crc="322643638" ref="contatos"/>
@@ -126,7 +126,6 @@
     <file name="u8833-5.png" crc="4288407662" ref="index"/>
     <file name="u8838-5.png" crc="77878505" ref="index"/>
     <file name="u8845-5.png" crc="4099582728" ref="index"/>
-    <file name="u34950-22.png" crc="4022167306" ref="index"/>
     <file name="wp.png" crc="4018989863" seo="true" ref="index"/>
     <file name="rede-rodape2.png" crc="4267983997" seo="true" ref="index:contatos:noticias:news1:news2:arquivos:news3:news4:news5:news6:news7:news8:news9:news10"/>
     <file name="u8847-10.png" crc="478847538" ref="index"/>
@@ -362,8 +361,9 @@
     <file name="u82000-10.png" crc="478847538" ref="news10"/>
     <file name="u83449.png" crc="4193694316" ref="news10"/>
     <file name="u83449-r.png" crc="349032306" ref="news10"/>
+    <file name="u34950-27.png" crc="3928967216" ref="index"/>
   </folder>
-  <file name="index.html" crc="3955998180" seo="true" mt="1456079358793" redirect="true"/>
+  <file name="index.html" crc="18653456" seo="true" mt="1456146595702" redirect="true"/>
   <file name="contatos.html" crc="4241460095" seo="true" mt="1456079257856" redirect="true"/>
   <file name="noticias.html" crc="420183445" seo="true" mt="1456079631141" redirect="true"/>
   <file name="news1.html" crc="3863551486" seo="true" mt="1456078085708" redirect="true"/>
