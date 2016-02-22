@@ -1,7 +1,7 @@
 .version.noticias /* version checker */
 {
-	color: #000000;
-	background-color: #F20D80;
+	color: #0000E5;
+	background-color: #BC8F82;
 }
 
 #page
@@ -2281,7 +2281,7 @@
 
 #u44674
 {
-	z-index: 503;
+	z-index: 516;
 	height: 41px;
 	background-color: #F7931E;
 }
@@ -2296,7 +2296,7 @@
 
 #u44674-bw
 {
-	z-index: 503;
+	z-index: 516;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -2305,7 +2305,7 @@
 
 #menuu80658
 {
-	z-index: 504;
+	z-index: 517;
 	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
@@ -3294,7 +3294,7 @@
 
 #u83583
 {
-	z-index: 553;
+	z-index: 503;
 	width: 322px;
 	border-width: 0px;
 	border-color: transparent;
@@ -3308,7 +3308,7 @@
 
 #u83564
 {
-	z-index: 563;
+	z-index: 513;
 	width: 322px;
 	border-width: 0px;
 	border-color: transparent;
@@ -3318,7 +3318,7 @@
 
 #u83565
 {
-	z-index: 564;
+	z-index: 514;
 	width: 322px;
 	background-color: transparent;
 	position: relative;
@@ -3327,7 +3327,7 @@
 
 #u83464
 {
-	z-index: 554;
+	z-index: 504;
 	width: 279px;
 	background-color: #F2F2F2;
 	margin-left: 11px;
@@ -3338,14 +3338,14 @@
 
 #u83465-4
 {
-	z-index: 555;
+	z-index: 505;
 	left: -1px;
 	position: relative;
 }
 
 #u83466-4
 {
-	z-index: 559;
+	z-index: 509;
 	margin-left: 10px;
 	margin-top: 38px;
 	position: relative;

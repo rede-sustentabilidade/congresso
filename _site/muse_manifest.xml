@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456150235890">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456155912512">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="4708762" ref="news3"/>
     <file name="news6.css" crc="3851812249" ref="news6"/>
-    <file name="index.css" crc="222445686" ref="index"/>
+    <file name="index.css" crc="3907981100" ref="index"/>
     <file name="news8.css" crc="494378005" ref="news8"/>
     <file name="news4.css" crc="3958108586" ref="news4"/>
     <file name="contatos.css" crc="322643638" ref="contatos"/>
-    <file name="noticias.css" crc="15863168" ref="noticias"/>
+    <file name="noticias.css" crc="3854339970" ref="noticias"/>
     <file name="news9.css" crc="35951967" ref="news9"/>
     <file name="news1.css" crc="414232933" ref="news1"/>
     <file name="news5.css" crc="506055888" ref="news5"/>
@@ -363,9 +363,9 @@
     <file name="u83449-r.png" crc="349032306" ref="news10"/>
     <file name="u34950-27.png" crc="3928967216" ref="index"/>
   </folder>
-  <file name="index.html" crc="3780828420" seo="true" mt="1456150151743" redirect="true"/>
+  <file name="index.html" crc="3780828420" seo="true" mt="1456155884284" redirect="true"/>
   <file name="contatos.html" crc="4241460095" seo="true" mt="1456079257856" redirect="true"/>
-  <file name="noticias.html" crc="151041287" seo="true" mt="1456150219361" redirect="true"/>
+  <file name="noticias.html" crc="151041287" seo="true" mt="1456155865746" redirect="true"/>
   <file name="news1.html" crc="3863551486" seo="true" mt="1456078085708" redirect="true"/>
   <file name="news2.html" crc="3835591270" seo="true" mt="1456078275444" redirect="true"/>
   <file name="arquivos.html" crc="336214449" seo="true" mt="1456074948583" redirect="true"/>
