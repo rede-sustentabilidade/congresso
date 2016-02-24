@@ -942,7 +942,7 @@
     <nav class="MenuBar clearfix mse_pre_init" id="menuu62263"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u62285"><!-- vertical box -->
       <!-- m_editable region-id="editable-static-tag-U62288" template="contatos.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u62288" href="http://rangelart.wix.com/momento-autoral" data-muse-uid="U62288"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u62290-4"><!-- rasterized frame --><div id="u62290-4_clip"><img id="u62290-4_img" alt="MOMENTO AUTORAL" width="140" height="17" src="images/u62290-4.png"/></div></div></a>
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u62288" href="http://rangelart.wix.com/momento-autoral" target="_blank" data-muse-uid="U62288"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u62290-4"><!-- rasterized frame --><div id="u62290-4_clip"><img id="u62290-4_img" alt="MOMENTO AUTORAL" width="140" height="17" src="images/u62290-4.png"/></div></div></a>
       <!-- /m_editable -->
      </div>
      <div class="MenuItemContainer clearfix grpelem" id="u62271"><!-- vertical box -->
@@ -1070,9 +1070,9 @@ Muse.Utils.initWidget('#slideshowu30395', ['#bp_infinity'], function(elem) { var
 Muse.Utils.initWidget('#slideshowu29779', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:1500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu29779 */
 Muse.Utils.initWidget('#slideshowu29553', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:1500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu29553 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u9026-bw').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[null,0]},{"in":[0,Infinity],"speed":[null,0]}]);/* scroll effect */
-$('#u9285-bw').registerPositionScrollEffect([{"in":[-Infinity,299.87],"speed":[null,1]},{"in":[299.87,Infinity],"speed":[null,0]}]);/* scroll effect */
-$('#menuu62263').registerPositionScrollEffect([{"in":[-Infinity,299.85],"speed":[0,1]},{"in":[299.85,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u9026-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#u9285-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,299.87]},{"speed":[null,0],"in":[299.87,Infinity]}]);/* scroll effect */
+$('#menuu62263').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,299.85]},{"speed":[0,0],"in":[299.85,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});

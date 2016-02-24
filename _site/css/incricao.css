@@ -1,7 +1,7 @@
 .version.incricao /* version checker */
 {
-	color: #000016;
-	background-color: #C8AC89;
+	color: #00000E;
+	background-color: #DEA196;
 }
 
 #page
@@ -2754,7 +2754,7 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
-	padding-top: 140px;
+	padding-top: 39px;
 	padding-bottom: 20px;
 }
 
@@ -2763,7 +2763,7 @@
 	z-index: 367;
 	display: block;
 	vertical-align: top;
-	left: 127px;
+	left: 120px;
 	position: relative;
 }
 
@@ -2773,7 +2773,7 @@
 	display: block;
 	vertical-align: top;
 	left: 135px;
-	margin-top: 413px;
+	margin-top: 514px;
 	position: relative;
 }
 
@@ -2838,6 +2838,30 @@
 	margin-top: 306px;
 }
 
+#u96391
+{
+	z-index: 510;
+	width: 920px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 142px;
+	left: 120px;
+}
+
+#u96391_states
+{
+	float: left;
+	width: 920px;
+	height: 116px;
+	background: url("../images/u96391_states.png") no-repeat 0px 0px;
+}
+
+#u96391:hover #u96391_states
+{
+	background: url("../images/u96391_states-r.png") no-repeat 0px 0px;
+}
+
 #pu87271
 {
 	width: 0.01px;
@@ -2893,9 +2917,8 @@
 #u90116
 {
 	z-index: 498;
-	min-height: 519.7749999999996px;
+	min-height: 520px;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 }
 
 #u90116_align_to_page
@@ -2906,7 +2929,7 @@
 	width: 960px;
 	left: -100px;
 	padding-top: 84px;
-	padding-bottom: 194px;
+	padding-bottom: 162px;
 }
 
 #u87275
@@ -2926,14 +2949,14 @@
 {
 	z-index: 499;
 	left: 359px;
-	margin-top: 7px;
+	margin-top: 39px;
 	position: relative;
 }
 
 #u90116-bw
 {
 	z-index: 498;
-	min-height: 519.7749999999996px;
+	min-height: 520px;
 	margin-top: 168px;
 }
 

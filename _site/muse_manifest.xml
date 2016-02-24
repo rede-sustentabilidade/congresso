@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456328711249">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456337808671">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="4708762" ref="news3"/>
     <file name="news6.css" crc="3851812249" ref="news6"/>
-    <file name="index.css" crc="222095685" ref="index"/>
+    <file name="index.css" crc="46608577" ref="index"/>
     <file name="news8.css" crc="494378005" ref="news8"/>
     <file name="news4.css" crc="3958108586" ref="news4"/>
     <file name="contatos.css" crc="322643638" ref="contatos"/>
@@ -15,7 +15,7 @@
     <file name="arquivos.css" crc="197338945" ref="arquivos"/>
     <file name="news7.css" crc="254275699" ref="news7"/>
     <file name="news10.css" crc="4277551237" ref="news10"/>
-    <file name="incricao.css" crc="382250121" ref="incricao"/>
+    <file name="incricao.css" crc="249471382" ref="incricao"/>
     <file name="lista.css" crc="37491333" ref="lista"/>
     <file name="obrigado.css" crc="118592580" ref="obrigado"/>
   </folder>
@@ -374,7 +374,7 @@
     <file name="u89973-4.png" crc="4243866924" ref="incricao"/>
     <file name="u87265-7.png" crc="4030883854" ref="incricao"/>
     <file name="u87269-5.png" crc="3829498975" ref="incricao"/>
-    <file name="u87267-33.png" crc="338838222" ref="incricao"/>
+    <file name="u87267-33.png" crc="296627308" ref="incricao"/>
     <file name="u87268-5.png" crc="3845233693" ref="incricao"/>
     <file name="u87270-16.png" crc="131970865" ref="incricao"/>
     <file name="u87273-6.png" crc="3932597044" ref="incricao"/>
@@ -383,8 +383,7 @@
     <file name="u87276_states-r.png" crc="299737456" ref="incricao"/>
     <file name="u87274-6.png" crc="3769142840" ref="incricao"/>
     <file name="u86206-10.png" crc="478847538" ref="incricao"/>
-    <file name="u90110-8.png" crc="316846656" ref="index"/>
-    <file name="u90111-4.png" crc="185707853" ref="index"/>
+    <file name="u90110-8.png" crc="3923459390" ref="index"/>
     <file name="u91257-4.png" crc="4201110029" ref="lista"/>
     <file name="u91228-4.png" crc="4043730023" ref="lista"/>
     <file name="u91243-4.png" crc="379348789" ref="lista"/>
@@ -412,22 +411,27 @@
     <file name="certo.jpg" crc="419614937" seo="true" ref="obrigado"/>
     <file name="u96364-6.png" crc="267982237" ref="obrigado"/>
     <file name="u94995-10.png" crc="478847538" ref="obrigado"/>
+    <file name="inscrição-favicon.ico" crc="109684085" ref="incricao"/>
+    <file name="u96391_states.png" crc="39253475" ref="incricao"/>
+    <file name="u96391_states-r.png" crc="28334220" ref="incricao"/>
+    <file name="lista-favicon.ico" crc="109684085" ref="lista"/>
+    <file name="obrigado-favicon.ico" crc="109684085" ref="obrigado"/>
   </folder>
-  <file name="index.html" crc="3870211297" seo="true" mt="1456325879845" redirect="true"/>
-  <file name="contatos.html" crc="4241460095" seo="true" mt="1456079257856" redirect="true"/>
-  <file name="noticias.html" crc="68767776" seo="true" mt="1456328666001" redirect="true"/>
-  <file name="news1.html" crc="3863551486" seo="true" mt="1456078085708" redirect="true"/>
-  <file name="news2.html" crc="3835591270" seo="true" mt="1456078275444" redirect="true"/>
-  <file name="arquivos.html" crc="134212692" seo="true" mt="1456328540192" redirect="true"/>
-  <file name="news3.html" crc="495594541" seo="true" mt="1456078912810" redirect="true"/>
-  <file name="news4.html" crc="408201427" seo="true" mt="1456078935180" redirect="true"/>
-  <file name="news5.html" crc="466521005" seo="true" mt="1456078957594" redirect="true"/>
-  <file name="news6.html" crc="4059447111" seo="true" mt="1456078979353" redirect="true"/>
-  <file name="news7.html" crc="131841345" seo="true" mt="1456078884811" redirect="true"/>
-  <file name="news8.html" crc="4117556777" seo="true" mt="1456079005451" redirect="true"/>
-  <file name="news9.html" crc="3997668463" seo="true" mt="1456079014091" redirect="true"/>
-  <file name="news10.html" crc="26530800" seo="true" mt="1456078845109" redirect="true"/>
-  <file name="incricao.html" crc="4203629266" seo="true" mt="1456326743661" redirect="true"/>
-  <file name="lista.html" crc="15548080" seo="true" mt="1456328555079" redirect="true"/>
-  <file name="obrigado.html" crc="112244519" seo="true" mt="1456328581518" redirect="true"/>
+  <file name="index.html" crc="267143850" seo="true" mt="1456337781503" redirect="true"/>
+  <file name="contatos.html" crc="3840150360" seo="true" mt="1456336266459" redirect="true"/>
+  <file name="noticias.html" crc="4152430352" seo="true" mt="1456336171858" redirect="true"/>
+  <file name="news1.html" crc="4005788878" seo="true" mt="1456336413677" redirect="true"/>
+  <file name="news2.html" crc="467747225" seo="true" mt="1456336422317" redirect="true"/>
+  <file name="arquivos.html" crc="3915154874" seo="true" mt="1456336252408" redirect="true"/>
+  <file name="news3.html" crc="4159341773" seo="true" mt="1456336430550" redirect="true"/>
+  <file name="news4.html" crc="4123548666" seo="true" mt="1456336443533" redirect="true"/>
+  <file name="news5.html" crc="288734709" seo="true" mt="1456336453872" redirect="true"/>
+  <file name="news6.html" crc="173099547" seo="true" mt="1456336464730" redirect="true"/>
+  <file name="news7.html" crc="3846651648" seo="true" mt="1456337350766" redirect="true"/>
+  <file name="news8.html" crc="3793897531" seo="true" mt="1456337340270" redirect="true"/>
+  <file name="news9.html" crc="4293184198" seo="true" mt="1456337331126" redirect="true"/>
+  <file name="news10.html" crc="128857940" seo="true" mt="1456337300694" redirect="true"/>
+  <file name="incricao.html" crc="3869381758" seo="true" mt="1456337677993" redirect="true"/>
+  <file name="lista.html" crc="4016938567" seo="true" mt="1456336190309" redirect="true"/>
+  <file name="obrigado.html" crc="16933268" seo="true" mt="1456336236478" redirect="true"/>
 </manifest>
