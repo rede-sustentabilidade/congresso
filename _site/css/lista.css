@@ -1,7 +1,7 @@
 .version.lista /* version checker */
 {
-	color: #000002;
-	background-color: #3C1285;
+	color: #0000EA;
+	background-color: #43ECF3;
 }
 
 #page
@@ -2735,7 +2735,7 @@
 #u93796
 {
 	z-index: 3;
-	min-height: 2694.9125000000013px;
+	min-height: 2694.9125px;
 	background-color: #FFFFFF;
 	padding-bottom: 0px;
 }
@@ -2747,12 +2747,8 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
-}
-
-#u93796_position_content
-{
 	padding-top: 19px;
-	width: 100%;
+	padding-bottom: 89px;
 }
 
 #u96367-6
@@ -2786,6 +2782,13 @@
 	position: relative;
 }
 
+#u93796-bw
+{
+	z-index: 3;
+	min-height: 2694.9125px;
+	margin-top: 41px;
+}
+
 #u90142
 {
 	z-index: 5;
@@ -2793,8 +2796,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	left: 392px;
-	margin-top: 19px;
+	margin-left: 292px;
+	top: -70px;
+	margin-bottom: -70px;
 	position: relative;
 }
 
@@ -2821,13 +2825,6 @@
 {
 	display: block;
 	vertical-align: top;
-}
-
-#u93796-bw
-{
-	z-index: 3;
-	min-height: 2694.9125000000013px;
-	margin-top: 41px;
 }
 
 #muse_css_mq,.html

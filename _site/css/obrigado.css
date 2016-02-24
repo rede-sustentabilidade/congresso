@@ -1,7 +1,7 @@
 .version.obrigado /* version checker */
 {
-	color: #000007;
-	background-color: #119444;
+	color: #0000F7;
+	background-color: #CCAA9D;
 }
 
 #page
@@ -2803,7 +2803,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 307px;
-	margin-top: 23px;
+	top: -70px;
+	margin-bottom: -70px;
 	position: relative;
 }
 
@@ -2814,7 +2815,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
+	margin-top: 14px;
 }
 
 #u94995-10

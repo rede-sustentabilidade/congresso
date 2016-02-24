@@ -523,6 +523,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/112.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/122.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/app-ios.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/appstore-play.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://congresso.redesustentabilidade.org.br/index.html</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -620,6 +644,18 @@
   </url>
   <url>
     <loc>https://congresso.redesustentabilidade.org.br/obrigado.html</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/news11.html</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/news12.html</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

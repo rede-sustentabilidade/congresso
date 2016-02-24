@@ -1,14 +1,14 @@
 .version.noticias /* version checker */
 {
-	color: #00000E;
-	background-color: #C007FE;
+	color: #0000E8;
+	background-color: #83C292;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 800px;
+	min-height: 2367px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -48,12 +48,6 @@
 	top: 0px;
 }
 
-#pu30814
-{
-	width: 0.01px;
-	margin-left: -20px;
-}
-
 #u30814
 {
 	z-index: 11;
@@ -61,8 +55,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	left: -20px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #slideshowu30815
@@ -2285,19 +2279,9 @@
 	position: relative;
 }
 
-#u96376-6
-{
-	z-index: 566;
-	position: relative;
-	width: 135px;
-	margin-right: -10000px;
-	margin-top: 19px;
-	left: 40px;
-}
-
 #u44674
 {
-	z-index: 516;
+	z-index: 546;
 	height: 41px;
 	background-color: #F7931E;
 }
@@ -2312,7 +2296,7 @@
 
 #u44674-bw
 {
-	z-index: 516;
+	z-index: 546;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -2321,7 +2305,7 @@
 
 #menuu80658
 {
-	z-index: 517;
+	z-index: 547;
 	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2788,8 +2772,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 580px;
-	left: 419px;
+	margin-top: 967px;
+	left: 53px;
 }
 
 #u70197
@@ -2835,7 +2819,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 967px;
-	left: 51px;
+	left: 785px;
 }
 
 #u44700
@@ -2871,27 +2855,6 @@
 	position: relative;
 }
 
-#u13669-10
-{
-	z-index: 386;
-	position: relative;
-	width: 298px;
-	margin-right: -10000px;
-	margin-top: 1839px;
-	left: 497px;
-}
-
-#u14038
-{
-	z-index: 396;
-	width: 71px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1868px;
-	left: 413px;
-}
-
 #u75529
 {
 	z-index: 398;
@@ -2901,8 +2864,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 580px;
-	left: 785px;
+	margin-top: 967px;
+	left: 419px;
 }
 
 #u70189
@@ -2946,8 +2909,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 967px;
-	left: 785px;
+	margin-top: 1354px;
+	left: 419px;
 }
 
 #u75549
@@ -3014,8 +2977,8 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 193px;
-	left: 785px;
+	margin-top: 580px;
+	left: 419px;
 }
 
 #u70333
@@ -3061,7 +3024,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1354px;
-	left: 51px;
+	left: 785px;
 }
 
 #u75558
@@ -3110,8 +3073,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1354px;
-	left: 419px;
+	margin-top: 1741px;
+	left: 53px;
 }
 
 #u75562
@@ -3156,8 +3119,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 967px;
-	left: 419px;
+	margin-top: 1354px;
+	left: 53px;
 }
 
 #u75614
@@ -3203,7 +3166,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 580px;
-	left: 51px;
+	left: 785px;
 }
 
 #u75517
@@ -3260,8 +3223,8 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 193px;
-	left: 419px;
+	margin-top: 580px;
+	left: 53px;
 }
 
 #u78235
@@ -3308,7 +3271,7 @@
 	left: 349px;
 }
 
-#u83583
+#u101766
 {
 	z-index: 503;
 	width: 322px;
@@ -3318,8 +3281,8 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 190px;
-	left: 53px;
+	margin-top: 193px;
+	left: 785px;
 }
 
 #u83564
@@ -3347,7 +3310,6 @@
 	width: 279px;
 	background-color: #F2F2F2;
 	margin-left: 11px;
-	margin-top: 3px;
 	position: relative;
 	padding: 22px 10px 25px 11px;
 }
@@ -3369,7 +3331,7 @@
 
 #u96379-6
 {
-	z-index: 572;
+	z-index: 516;
 	position: relative;
 	width: 135px;
 	margin-right: -10000px;
@@ -3377,7 +3339,127 @@
 	left: 120px;
 }
 
-#u96376-6_img,#u70183-4_img,#u70184-4_img,#u38081-4_img,#u38082-4_img,#u13669-10_img,#u70210-4_img,#u70211-4_img,#u75550-4_img,#u75551-4_img,#u75553-4_img,#u75552-4_img,#u70328-4_img,#u70329-4_img,#u75564-4_img,#u75561-4_img,#u75612-4_img,#u75616-4_img,#u78317-4_img,#u78314-4_img,#u78218-4_img,#u78219-4_img,#u83465-4_img,#u83466-4_img,#u96379-6_img
+#u101760
+{
+	z-index: 522;
+	width: 322px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+	left: 419px;
+}
+
+#u101748
+{
+	z-index: 532;
+	width: 322px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u101702
+{
+	z-index: 523;
+	width: 279px;
+	background-color: #F2F2F2;
+	margin-left: 11px;
+	position: relative;
+	padding: 22px 10px 25px 11px;
+}
+
+#u101697-4
+{
+	z-index: 524;
+	left: -1px;
+	position: relative;
+}
+
+#u101698-4
+{
+	z-index: 528;
+	margin-left: 10px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u101763
+{
+	z-index: 534;
+	width: 322px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+	left: 53px;
+}
+
+#u101740
+{
+	z-index: 544;
+	width: 322px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u101724
+{
+	z-index: 535;
+	width: 279px;
+	background-color: #F2F2F2;
+	margin-left: 11px;
+	position: relative;
+	padding: 22px 10px 25px 11px;
+}
+
+#u101719-4
+{
+	z-index: 536;
+	left: -1px;
+	position: relative;
+}
+
+#u101720-4
+{
+	z-index: 540;
+	margin-left: 10px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#pu14038
+{
+	width: 0.01px;
+	margin-left: 313px;
+	margin-top: -70px;
+}
+
+#u14038
+{
+	z-index: 396;
+	width: 71px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+}
+
+#u13669-10
+{
+	z-index: 386;
+	position: relative;
+	width: 298px;
+	margin-right: -10000px;
+	left: 84px;
+}
+
+#u70183-4_img,#u70184-4_img,#u38081-4_img,#u38082-4_img,#u70210-4_img,#u70211-4_img,#u75550-4_img,#u75551-4_img,#u75553-4_img,#u75552-4_img,#u70328-4_img,#u70329-4_img,#u75564-4_img,#u75561-4_img,#u75612-4_img,#u75616-4_img,#u78317-4_img,#u78314-4_img,#u78218-4_img,#u78219-4_img,#u83465-4_img,#u83466-4_img,#u96379-6_img,#u101697-4_img,#u101698-4_img,#u101719-4_img,#u101720-4_img,#u13669-10_img
 {
 	display: block;
 	vertical-align: top;
@@ -3392,5 +3474,6 @@ body
 {
 	position: relative;
 	min-width: 960px;
+	padding-bottom: 58px;
 }
 
