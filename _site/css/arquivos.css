@@ -1,7 +1,7 @@
 .version.arquivos /* version checker */
 {
-	color: #000011;
-	background-color: #E06BFA;
+	color: #0000E3;
+	background-color: #7086B8;
 }
 
 #page
@@ -2807,6 +2807,13 @@
 	left: 684px;
 }
 
+#pu39624-8
+{
+	width: 0.01px;
+	left: 141px;
+	position: relative;
+}
+
 #u39624-8
 {
 	z-index: 371;
@@ -2842,12 +2849,18 @@
 	left: 684px;
 }
 
+#ppu39634
+{
+	width: 0.01px;
+	left: 141px;
+	margin-top: 30px;
+	position: relative;
+}
+
 #pu39634
 {
 	width: 0.01px;
-	left: 163px;
-	margin-top: 30px;
-	position: relative;
+	margin-right: -10000px;
 }
 
 #u39634
@@ -2855,24 +2868,7 @@
 	z-index: 385;
 	width: 128px;
 	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u60377
-{
-	z-index: 424;
-	width: 128px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 228px;
-}
-
-#pu39624-8,#pu39640-9
-{
-	width: 0.01px;
-	left: 141px;
+	margin-left: 22px;
 	position: relative;
 }
 
@@ -2880,17 +2876,55 @@
 {
 	z-index: 410;
 	position: relative;
-	width: 172px;
+}
+
+#pu60377
+{
+	width: 0.01px;
 	margin-right: -10000px;
+	margin-left: 228px;
+}
+
+#u60377
+{
+	z-index: 424;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
 }
 
 #u60379-9
 {
 	z-index: 426;
 	position: relative;
+}
+
+#u101914
+{
+	z-index: 490;
 	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
-	left: 228px;
+	left: 456px;
+}
+
+#u101904
+{
+	z-index: 491;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u101906-9
+{
+	z-index: 493;
+	position: relative;
 }
 
 #u38205-bw
@@ -2932,7 +2966,7 @@
 	left: 78px;
 }
 
-#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u38209-10_img
+#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u38209-10_img
 {
 	display: block;
 	vertical-align: top;
