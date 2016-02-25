@@ -1,7 +1,7 @@
 .version.noticias /* version checker */
 {
-	color: #0000E8;
-	background-color: #83C292;
+	color: #0000F8;
+	background-color: #80CC72;
 }
 
 #page
@@ -3382,7 +3382,7 @@
 {
 	z-index: 528;
 	margin-left: 10px;
-	margin-top: 38px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -3429,7 +3429,7 @@
 {
 	z-index: 540;
 	margin-left: 10px;
-	margin-top: 38px;
+	margin-top: 16px;
 	position: relative;
 }
 

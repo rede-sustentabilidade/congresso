@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456349019247">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456411912752">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="379081514" ref="news3"/>
     <file name="news6.css" crc="369127556" ref="news6"/>
-    <file name="index.css" crc="3803917346" ref="index"/>
+    <file name="index.css" crc="467832316" ref="index"/>
     <file name="news8.css" crc="465163995" ref="news8"/>
     <file name="news4.css" crc="308052556" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
-    <file name="noticias.css" crc="3900949138" ref="noticias"/>
+    <file name="noticias.css" crc="4169190514" ref="noticias"/>
     <file name="news9.css" crc="4116570244" ref="news9"/>
     <file name="news1.css" crc="523859102" ref="news1"/>
     <file name="news5.css" crc="4134619777" ref="news5"/>
@@ -413,17 +413,11 @@
     <file name="u96413-5.png" crc="4288407662" ref="index"/>
     <file name="u96414-5.png" crc="77878505" ref="index"/>
     <file name="u96504-10.png" crc="478847538" ref="news3"/>
-    <file name="u101770-4.png" crc="387995449" ref="index"/>
-    <file name="u101771-4.png" crc="4237891075" ref="index"/>
     <file name="112.jpg" crc="4265723953" seo="true" ref="index:noticias"/>
-    <file name="u101781-4.png" crc="387995449" ref="index"/>
-    <file name="u101780-4.png" crc="4237891075" ref="index"/>
     <file name="122.jpg" crc="110814606" seo="true" ref="index:noticias"/>
-    <file name="u101785-4.png" crc="387995449" ref="index"/>
-    <file name="u101783-4.png" crc="4237891075" ref="index"/>
-    <file name="u101697-4.png" crc="387995449" ref="noticias"/>
+    <file name="u101697-4.png" crc="4073503031" ref="noticias"/>
     <file name="u101698-4.png" crc="4237891075" ref="noticias"/>
-    <file name="u101719-4.png" crc="387995449" ref="noticias"/>
+    <file name="u101719-4.png" crc="4073503031" ref="noticias"/>
     <file name="u101720-4.png" crc="4237891075" ref="noticias"/>
     <file name="momento-autoral-quer-estimular-o-protagonismo-dos-filiados-no-2º-congresso-favicon.ico" crc="109684085" ref="news11"/>
     <file name="u98791-4.png" crc="4201110029" ref="news11"/>
@@ -457,10 +451,16 @@
     <file name="u100224-10.png" crc="478847538" ref="news12"/>
     <file name="u98736_states.png" crc="39217411" ref="news11"/>
     <file name="u98736_states-r.png" crc="4151810812" ref="news11"/>
+    <file name="u101847-4.png" crc="387995449" ref="index"/>
+    <file name="u101845-4.png" crc="4237891075" ref="index"/>
+    <file name="u101856-4.png" crc="4073503031" ref="index"/>
+    <file name="u101853-4.png" crc="4237891075" ref="index"/>
+    <file name="u101858-4.png" crc="4073503031" ref="index"/>
+    <file name="u101862-4.png" crc="4237891075" ref="index"/>
   </folder>
-  <file name="index.html" crc="137272893" seo="true" mt="1456348059962" redirect="true"/>
+  <file name="index.html" crc="4026020968" seo="true" mt="1456411442114" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
-  <file name="noticias.html" crc="4116689413" seo="true" mt="1456348074265" redirect="true"/>
+  <file name="noticias.html" crc="3777460669" seo="true" mt="1456411392673" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
   <file name="news2.html" crc="278950511" seo="true" mt="1456343179424" redirect="true"/>
   <file name="arquivos.html" crc="7876122" seo="true" mt="1456341133585" redirect="true"/>
