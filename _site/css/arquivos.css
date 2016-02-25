@@ -1,7 +1,7 @@
 .version.arquivos /* version checker */
 {
-	color: #0000E3;
-	background-color: #7086B8;
+	color: #0000E5;
+	background-color: #9E784D;
 }
 
 #page
@@ -2305,7 +2305,7 @@
 
 #menuu78354
 {
-	z-index: 435;
+	z-index: 429;
 	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2744,14 +2744,14 @@
 
 #u96373-6
 {
-	z-index: 484;
+	z-index: 490;
 	left: 120px;
 	position: relative;
 }
 
 #u39642-5
 {
-	z-index: 419;
+	z-index: 402;
 	display: block;
 	vertical-align: top;
 	left: 328px;
@@ -2760,96 +2760,122 @@
 	position: relative;
 }
 
-#pu39618
+#pu101925
 {
 	width: 0.01px;
-	left: 163px;
+	left: 141px;
 	margin-top: 51px;
 	position: relative;
 }
 
-#u39618
+#u101925
 {
 	z-index: 369;
-	width: 128px;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u39625
+#u39618
 {
-	z-index: 379;
+	z-index: 370;
 	width: 128px;
 	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 228px;
-}
-
-#u39628
-{
-	z-index: 381;
-	width: 128px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 456px;
-}
-
-#u39631
-{
-	z-index: 383;
-	width: 128px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 684px;
-}
-
-#pu39624-8
-{
-	width: 0.01px;
-	left: 141px;
+	margin-left: 22px;
 	position: relative;
 }
 
 #u39624-8
 {
-	z-index: 371;
+	z-index: 372;
 	position: relative;
-	width: 172px;
-	margin-right: -10000px;
 }
 
-#u39637-8
+#u101928
 {
-	z-index: 387;
-	position: relative;
+	z-index: 380;
 	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 228px;
 }
 
-#u39638-8
+#u39625
 {
-	z-index: 395;
+	z-index: 381;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
 	position: relative;
+}
+
+#u39637-8
+{
+	z-index: 383;
+	position: relative;
+}
+
+#u101931
+{
+	z-index: 391;
 	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 456px;
 }
 
-#u39639-7
+#u39628
 {
-	z-index: 403;
+	z-index: 392;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
 	position: relative;
+}
+
+#u39638-8
+{
+	z-index: 394;
+	position: relative;
+}
+
+#u101934
+{
+	z-index: 407;
 	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 684px;
 }
 
-#ppu39634
+#u39631
+{
+	z-index: 408;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u39639-7
+{
+	z-index: 410;
+	position: relative;
+}
+
+#pu101922
 {
 	width: 0.01px;
 	left: 141px;
@@ -2857,15 +2883,20 @@
 	position: relative;
 }
 
-#pu39634
+#u101922
 {
-	width: 0.01px;
+	z-index: 417;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
 #u39634
 {
-	z-index: 385;
+	z-index: 418;
 	width: 128px;
 	background-color: transparent;
 	margin-left: 22px;
@@ -2874,20 +2905,25 @@
 
 #u39640-9
 {
-	z-index: 410;
+	z-index: 420;
 	position: relative;
 }
 
-#pu60377
+#u101919
 {
-	width: 0.01px;
+	z-index: 478;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
-	margin-left: 228px;
+	left: 228px;
 }
 
 #u60377
 {
-	z-index: 424;
+	z-index: 479;
 	width: 128px;
 	background-color: transparent;
 	margin-left: 22px;
@@ -2896,13 +2932,13 @@
 
 #u60379-9
 {
-	z-index: 426;
+	z-index: 481;
 	position: relative;
 }
 
 #u101914
 {
-	z-index: 490;
+	z-index: 496;
 	width: 172px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2914,7 +2950,7 @@
 
 #u101904
 {
-	z-index: 491;
+	z-index: 497;
 	width: 128px;
 	background-color: transparent;
 	margin-left: 22px;
@@ -2923,7 +2959,7 @@
 
 #u101906-9
 {
-	z-index: 493;
+	z-index: 499;
 	position: relative;
 }
 

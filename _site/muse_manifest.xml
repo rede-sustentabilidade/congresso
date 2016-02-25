@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456434247078">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456437204769">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="379081514" ref="news3"/>
     <file name="news6.css" crc="369127556" ref="news6"/>
-    <file name="index.css" crc="219797560" ref="index"/>
+    <file name="index.css" crc="139196554" ref="index"/>
     <file name="news8.css" crc="465163995" ref="news8"/>
     <file name="news4.css" crc="308052556" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
@@ -15,7 +15,7 @@
     <file name="news1.css" crc="523859102" ref="news1"/>
     <file name="news5.css" crc="4134619777" ref="news5"/>
     <file name="news2.css" crc="386077842" ref="news2"/>
-    <file name="arquivos.css" crc="3815802552" ref="arquivos"/>
+    <file name="arquivos.css" crc="3852367949" ref="arquivos"/>
     <file name="news7.css" crc="95716188" ref="news7"/>
     <file name="news10.css" crc="4209750739" ref="news10"/>
     <file name="incricao.css" crc="47691173" ref="incricao"/>
@@ -462,12 +462,12 @@
     <file name="u101862-4.png" crc="4237891075" ref="index"/>
     <file name="u101906-9.png" crc="1126762" ref="arquivos"/>
   </folder>
-  <file name="index.html" crc="292274045" seo="true" mt="1456434030406" redirect="true"/>
+  <file name="index.html" crc="366546517" seo="true" mt="1456437147621" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
   <file name="noticias.html" crc="4196632653" seo="true" mt="1456434037387" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
   <file name="news2.html" crc="278950511" seo="true" mt="1456343179424" redirect="true"/>
-  <file name="arquivos.html" crc="528288974" seo="true" mt="1456434208510" redirect="true"/>
+  <file name="arquivos.html" crc="277914938" seo="true" mt="1456436614563" redirect="true"/>
   <file name="news3.html" crc="3806862053" seo="true" mt="1456343219202" redirect="true"/>
   <file name="news4.html" crc="4185645680" seo="true" mt="1456343266594" redirect="true"/>
   <file name="news5.html" crc="351060172" seo="true" mt="1456343289161" redirect="true"/>
