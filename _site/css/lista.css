@@ -1,7 +1,7 @@
 .version.lista /* version checker */
 {
-	color: #0000EA;
-	background-color: #43ECF3;
+	color: #0000E1;
+	background-color: #FA2F4A;
 }
 
 #page
@@ -2769,6 +2769,16 @@
 	position: relative;
 }
 
+#u109859-5
+{
+	z-index: 432;
+	display: block;
+	vertical-align: top;
+	left: 328px;
+	margin-top: 8px;
+	position: relative;
+}
+
 #u91260
 {
 	z-index: 425;
@@ -2778,7 +2788,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 120px;
-	margin-top: 93px;
+	margin-top: 46px;
 	position: relative;
 }
 

@@ -1,7 +1,7 @@
 .version.news7 /* version checker */
 {
-	color: #000005;
-	background-color: #B4835C;
+	color: #000004;
+	background-color: #3E6026;
 }
 
 #page
@@ -2831,25 +2831,19 @@
 #u75506
 {
 	z-index: 410;
-	width: 209px;
+	height: 29px;
+	width: 232px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1086px;
-	left: 476px;
+	left: 464px;
+	background: url("../images/u75506.png") no-repeat 0px 0px;
 }
 
-#u75506_states
+#u75506:hover
 {
-	float: left;
-	width: 209px;
-	height: 29px;
-	background: url("../images/u75506_states.png") no-repeat 0px 0px;
-}
-
-#u75506:hover #u75506_states
-{
-	background: url("../images/u75506_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u75506-r.png") no-repeat 0px 0px;
 }
 
 #u96525

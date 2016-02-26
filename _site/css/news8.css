@@ -1,18 +1,19 @@
 .version.news8 /* version checker */
 {
-	color: #00001B;
-	background-color: #B9D6DB;
+	color: #0000F6;
+	background-color: #0850B0;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 800px;
+	min-height: 799.8px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -2742,9 +2743,8 @@
 #u75213
 {
 	z-index: 3;
-	min-height: 1107.5000000000002px;
+	min-height: 1145px;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 }
 
 #u75213_align_to_page
@@ -2755,7 +2755,7 @@
 	width: 960px;
 	left: -100px;
 	padding-top: 19px;
-	padding-bottom: 161px;
+	padding-bottom: 160px;
 }
 
 #u74085-6
@@ -2825,32 +2825,38 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 430px;
-	margin-top: 2px;
+	margin-top: 40px;
 	position: relative;
 }
 
 #u75213-bw
 {
 	z-index: 3;
-	min-height: 1107.5000000000002px;
+	min-height: 1145px;
 }
 
 #u75143
 {
 	z-index: 396;
-	height: 29px;
-	width: 209px;
+	width: 366px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 751px;
-	left: 476px;
-	background: url("../images/u75143.png") no-repeat 0px 0px;
+	left: 397px;
 }
 
-#u75143:hover
+#u75143_states
 {
-	background: url("../images/u75143-r.png") no-repeat 0px 0px;
+	float: left;
+	width: 366px;
+	height: 87px;
+	background: url("../images/u75143_states.png") no-repeat 0px 0px;
+}
+
+#u75143:hover #u75143_states
+{
+	background: url("../images/u75143_states-r.png") no-repeat 0px 0px;
 }
 
 #u96528

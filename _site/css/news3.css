@@ -1,7 +1,7 @@
 .version.news3 /* version checker */
 {
-	color: #000016;
-	background-color: #98532A;
+	color: #00001E;
+	background-color: #1E755F;
 }
 
 #page
@@ -2735,8 +2735,9 @@
 #u39812
 {
 	z-index: 3;
-	min-height: 1286px;
+	min-height: 1378.6px;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 }
 
 #u39812_align_to_page
@@ -2800,14 +2801,14 @@
 #u44658
 {
 	z-index: 397;
-	width: 594px;
+	width: 748px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 662px;
-	left: 163px;
+	left: 86px;
 }
 
 #u44588
@@ -2835,18 +2836,18 @@
 #u44589
 {
 	z-index: 402;
-	width: 209px;
+	width: 451px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 385px;
+	left: 297px;
 }
 
 #u44589_states
 {
 	float: left;
-	width: 209px;
-	height: 29px;
+	width: 451px;
+	height: 87px;
 	background: url("../images/u44589_states.png") no-repeat 0px 0px;
 }
 
@@ -2861,6 +2862,7 @@
 	display: block;
 	vertical-align: top;
 	left: 338px;
+	margin-top: 87px;
 	position: relative;
 }
 
@@ -2873,14 +2875,14 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 430px;
-	margin-top: 5px;
+	margin-top: 4px;
 	position: relative;
 }
 
 #u39812-bw
 {
 	z-index: 3;
-	min-height: 1286px;
+	min-height: 1378.6px;
 	margin-top: 41px;
 }
 
