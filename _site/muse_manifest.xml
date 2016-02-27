@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456584649711">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456584810914">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="505312607" ref="news3"/>
     <file name="news6.css" crc="369127556" ref="news6"/>
-    <file name="index.css" crc="3921216237" ref="index"/>
+    <file name="index.css" crc="55584112" ref="index"/>
     <file name="news8.css" crc="4127740080" ref="news8"/>
     <file name="news4.css" crc="159300906" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
@@ -521,7 +521,7 @@
     <file name="u109907-4.png" crc="342482419" ref="index"/>
     <file name="u109916-4.png" crc="273501837" ref="index"/>
   </folder>
-  <file name="index.html" crc="4227054904" seo="true" mt="1456584332799" redirect="true"/>
+  <file name="index.html" crc="4227054904" seo="true" mt="1456584791137" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
   <file name="noticias.html" crc="4184388343" seo="true" mt="1456526879838" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
