@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456583864696">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456584355786">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="505312607" ref="news3"/>
     <file name="news6.css" crc="369127556" ref="news6"/>
-    <file name="index.css" crc="345044355" ref="index"/>
+    <file name="index.css" crc="3921216237" ref="index"/>
     <file name="news8.css" crc="4127740080" ref="news8"/>
     <file name="news4.css" crc="159300906" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
@@ -165,10 +165,10 @@
     <file name="u75551-4.png" crc="228296249" ref="noticias"/>
     <file name="u75553-4.png" crc="4235821508" ref="noticias"/>
     <file name="u75552-4.png" crc="503112495" ref="noticias"/>
-    <file name="26.jpg" crc="491158656" seo="true" ref="noticias"/>
+    <file name="26.jpg" crc="317898337" seo="true" ref="noticias:index"/>
     <file name="u75555-4.png" crc="3901053546" ref="noticias"/>
     <file name="u75557-4.png" crc="4237891075" ref="noticias"/>
-    <file name="110.jpg" crc="3954958674" seo="true" ref="noticias"/>
+    <file name="110.jpg" crc="4146357588" seo="true" ref="noticias:index"/>
     <file name="u75564-4.png" crc="137640189" ref="noticias"/>
     <file name="u75561-4.png" crc="4237891075" ref="noticias"/>
     <file name="congresso-divulgacao-16.jpg" crc="204925765" seo="true" ref="noticias"/>
@@ -517,13 +517,11 @@
     <file name="u75506-r.png" crc="407031629" ref="news7"/>
     <file name="u75143_states.png" crc="6251182" ref="news8"/>
     <file name="u75143_states-r.png" crc="3976087761" ref="news8"/>
-    <file name="henry mintzberg.jpg" crc="4146357588" seo="true" ref="index"/>
     <file name="u109904-4.png" crc="4283001378" ref="index"/>
-    <file name="bernardo toro.jpg" crc="317898337" seo="true" ref="index"/>
     <file name="u109907-4.png" crc="342482419" ref="index"/>
-    <file name="u109916-4.png" crc="4283001378" ref="index"/>
+    <file name="u109916-4.png" crc="273501837" ref="index"/>
   </folder>
-  <file name="index.html" crc="4134672531" seo="true" mt="1456529528082" redirect="true"/>
+  <file name="index.html" crc="4227054904" seo="true" mt="1456584332799" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
   <file name="noticias.html" crc="4184388343" seo="true" mt="1456526879838" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
