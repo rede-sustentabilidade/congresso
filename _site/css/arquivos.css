@@ -1,7 +1,7 @@
 .version.arquivos /* version checker */
 {
-	color: #0000E5;
-	background-color: #9E784D;
+	color: #000008;
+	background-color: #C8B281;
 }
 
 #page
@@ -2879,7 +2879,7 @@
 {
 	width: 0.01px;
 	left: 141px;
-	margin-top: 30px;
+	margin-top: 28px;
 	position: relative;
 }
 
@@ -2892,6 +2892,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
 }
 
 #u39634
@@ -2918,6 +2919,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
 	left: 228px;
 }
 
@@ -2945,6 +2947,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
 	left: 456px;
 }
 
@@ -2960,6 +2963,33 @@
 #u101906-9
 {
 	z-index: 499;
+	position: relative;
+}
+
+#u117707
+{
+	z-index: 508;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 684px;
+}
+
+#u117709
+{
+	z-index: 509;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u117708-9
+{
+	z-index: 511;
 	position: relative;
 }
 
@@ -3002,7 +3032,7 @@
 	left: 78px;
 }
 
-#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u38209-10_img
+#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u117708-9_img,#u38209-10_img
 {
 	display: block;
 	vertical-align: top;
