@@ -1,6 +1,8 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1456939993056">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1457030024776">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
+    <file name="twog-henry-br-2.pdf" crc="107510750" seo="true" mt="1457020646000"/>
+    <file name="tese-conjuntura.pdf" crc="4094217510" seo="true" mt="1457020981000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
@@ -10,12 +12,12 @@
     <file name="news8.css" crc="4127740080" ref="news8"/>
     <file name="news4.css" crc="159300906" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
-    <file name="noticias.css" crc="4032384791" ref="noticias"/>
+    <file name="noticias.css" crc="103110303" ref="noticias"/>
     <file name="news9.css" crc="4116570244" ref="news9"/>
     <file name="news1.css" crc="523859102" ref="news1"/>
     <file name="news5.css" crc="4134619777" ref="news5"/>
     <file name="news2.css" crc="386077842" ref="news2"/>
-    <file name="arquivos.css" crc="147370625" ref="arquivos"/>
+    <file name="arquivos.css" crc="4277324412" ref="arquivos"/>
     <file name="news7.css" crc="71196710" ref="news7"/>
     <file name="news10.css" crc="4209750739" ref="news10"/>
     <file name="incricao.css" crc="47691173" ref="incricao"/>
@@ -168,10 +170,10 @@
     <file name="u75551-4.png" crc="228296249" ref="noticias"/>
     <file name="u75553-4.png" crc="4235821508" ref="noticias"/>
     <file name="u75552-4.png" crc="503112495" ref="noticias"/>
-    <file name="26.jpg" crc="317898337" seo="true" ref="index"/>
+    <file name="26.jpg" crc="491158656" seo="true" ref="index:noticias"/>
     <file name="u75555-4.png" crc="3901053546" ref="noticias"/>
     <file name="u75557-4.png" crc="4237891075" ref="noticias"/>
-    <file name="110.jpg" crc="4146357588" seo="true" ref="index"/>
+    <file name="110.jpg" crc="3954958674" seo="true" ref="index:noticias"/>
     <file name="u75564-4.png" crc="137640189" ref="noticias"/>
     <file name="u75561-4.png" crc="4237891075" ref="noticias"/>
     <file name="congresso-divulgacao-16.jpg" crc="204925765" seo="true" ref="noticias"/>
@@ -513,15 +515,12 @@
     <file name="u109904-4.png" crc="4283001378" ref="index"/>
     <file name="u109907-4.png" crc="342482419" ref="index"/>
     <file name="u109916-4.png" crc="273501837" ref="index"/>
-    <file name="210.jpg" crc="491158656" seo="true" ref="noticias"/>
-    <file name="111.jpg" crc="3954958674" seo="true" ref="noticias"/>
     <file name="172.jpg" crc="4070192275" seo="true" ref="noticias:index"/>
     <file name="u117651-4.png" crc="3785460315" ref="noticias"/>
     <file name="u117654-4.png" crc="4237891075" ref="noticias"/>
     <file name="162.jpg" crc="3901023474" seo="true" ref="noticias:index"/>
     <file name="u117669-5.png" crc="527378189" ref="noticias"/>
     <file name="u117673-4.png" crc="4237891075" ref="noticias"/>
-    <file name="u117708-9.png" crc="1126762" ref="arquivos"/>
     <file name="u91202-5.png" crc="4241359466" ref="lista"/>
     <file name="u104632-35.png" crc="4088809330" ref="news14"/>
     <file name="congresso-terá-sistema-de-gestão-de-resíduos-sólidos-favicon.ico" crc="109684085" ref="news16"/>
@@ -571,13 +570,19 @@
     <file name="u117805-4.png" crc="4237891075" ref="index"/>
     <file name="u117808-5.png" crc="527378189" ref="index"/>
     <file name="u117811-4.png" crc="4237891075" ref="index"/>
+    <file name="18fw.jpg" crc="213838561" seo="true" ref="noticias"/>
+    <file name="u117887-4.png" crc="3785460315" ref="noticias"/>
+    <file name="u117885-4.png" crc="4237891075" ref="noticias"/>
+    <file name="u117708-8.png" crc="3960640461" ref="arquivos"/>
+    <file name="u117857-9.png" crc="3963356495" ref="arquivos"/>
+    <file name="u117872-9.png" crc="290265398" ref="arquivos"/>
   </folder>
   <file name="index.html" crc="4269454908" seo="true" mt="1456939803708" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
-  <file name="noticias.html" crc="331329349" seo="true" mt="1456939817333" redirect="true"/>
+  <file name="noticias.html" crc="44301730" seo="true" mt="1457027100377" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
   <file name="news2.html" crc="278950511" seo="true" mt="1456343179424" redirect="true"/>
-  <file name="arquivos.html" crc="3821137394" seo="true" mt="1456930234368" redirect="true"/>
+  <file name="arquivos.html" crc="127545349" seo="true" mt="1457029831961" redirect="true"/>
   <file name="news3.html" crc="3836109898" seo="true" mt="1456526642134" redirect="true"/>
   <file name="news4.html" crc="4271264357" seo="true" mt="1456526518323" redirect="true"/>
   <file name="news5.html" crc="351060172" seo="true" mt="1456343289161" redirect="true"/>

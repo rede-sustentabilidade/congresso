@@ -1,24 +1,26 @@
 .version.arquivos /* version checker */
 {
-	color: #000008;
-	background-color: #C8B281;
+	color: #0000FE;
+	background-color: #F2CA7C;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1086px;
+	min-height: 1378.5124999999998px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
+	margin-bottom: -93px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -2309,7 +2311,7 @@
 	width: 855px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #F05A23;
 	position: fixed;
 	top: 300px;
 	left: 53px;
@@ -2727,8 +2729,9 @@
 #u38205
 {
 	z-index: 3;
-	min-height: 893px;
+	min-height: 909.95px;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 }
 
 #u38205_align_to_page
@@ -2738,8 +2741,13 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
+}
+
+#u38205_position_content
+{
+	margin-bottom: -93px;
 	padding-top: 19px;
-	padding-bottom: 157px;
+	width: 100%;
 }
 
 #u96373-6
@@ -2987,16 +2995,78 @@
 	position: relative;
 }
 
-#u117708-9
+#u117708-8
 {
 	z-index: 511;
+	position: relative;
+}
+
+#pu117854
+{
+	width: 0.01px;
+	left: 132px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u117854
+{
+	z-index: 519;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u117855
+{
+	z-index: 520;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u117857-9
+{
+	z-index: 522;
+	position: relative;
+}
+
+#u117869
+{
+	z-index: 531;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 237px;
+}
+
+#u117870
+{
+	z-index: 532;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u117872-9
+{
+	z-index: 534;
 	position: relative;
 }
 
 #u38205-bw
 {
 	z-index: 3;
-	min-height: 893px;
+	min-height: 909.95px;
 	margin-top: 41px;
 }
 
@@ -3007,9 +3077,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 319px;
-	top: -74px;
-	margin-bottom: -70px;
+	margin-left: 309px;
+	margin-top: 151px;
 	position: relative;
 }
 
@@ -3032,7 +3101,7 @@
 	left: 78px;
 }
 
-#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u117708-9_img,#u38209-10_img
+#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u117708-8_img,#u117857-9_img,#u117872-9_img,#u38209-10_img
 {
 	display: block;
 	vertical-align: top;
@@ -3047,5 +3116,6 @@ body
 {
 	position: relative;
 	min-width: 960px;
+	padding-bottom: 121px;
 }
 
