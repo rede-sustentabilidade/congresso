@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1457178018724">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1457194701018">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
     <file name="twog-henry-br-2.pdf" crc="107510750" seo="true" mt="1457020646000"/>
@@ -9,7 +9,7 @@
     <file name="site_global.css" crc="131700929"/>
     <file name="news3.css" crc="505312607" ref="news3"/>
     <file name="news6.css" crc="369127556" ref="news6"/>
-    <file name="index.css" crc="59205474" ref="index"/>
+    <file name="index.css" crc="3895061098" ref="index"/>
     <file name="news8.css" crc="4127740080" ref="news8"/>
     <file name="news4.css" crc="159300906" ref="news4"/>
     <file name="contatos.css" crc="3975251469" ref="contatos"/>
@@ -18,7 +18,7 @@
     <file name="news1.css" crc="523859102" ref="news1"/>
     <file name="news5.css" crc="4134619777" ref="news5"/>
     <file name="news2.css" crc="386077842" ref="news2"/>
-    <file name="arquivos.css" crc="4277324412" ref="arquivos"/>
+    <file name="arquivos.css" crc="4022320353" ref="arquivos"/>
     <file name="news7.css" crc="71196710" ref="news7"/>
     <file name="news10.css" crc="4209750739" ref="news10"/>
     <file name="incricao.css" crc="47691173" ref="incricao"/>
@@ -411,8 +411,8 @@
     <file name="u96400-6.png" crc="3769142840" ref="incricao"/>
     <file name="u96391_states.png" crc="523276461" ref="incricao"/>
     <file name="u96391_states-r.png" crc="3929287101" ref="incricao"/>
-    <file name="u90110_states.png" crc="60952758" ref="index"/>
-    <file name="u90110_states-r.png" crc="62858740" ref="index"/>
+    <file name="u90110_states.png" crc="3994554296" ref="index"/>
+    <file name="u90110_states-r.png" crc="3996388596" ref="index"/>
     <file name="u96504-10.png" crc="478847538" ref="news3"/>
     <file name="112.jpg" crc="4265723953" seo="true" ref="noticias"/>
     <file name="122.jpg" crc="110814606" seo="true" ref="noticias"/>
@@ -577,13 +577,14 @@
     <file name="u117857-9.png" crc="4164431715" ref="arquivos"/>
     <file name="u117872-9.png" crc="290265398" ref="arquivos"/>
     <file name="u117916-4.png" crc="388537027" ref="index"/>
+    <file name="u117927-9.png" crc="216891629" ref="arquivos"/>
   </folder>
-  <file name="index.html" crc="3898923490" seo="true" mt="1457095834921" redirect="true"/>
+  <file name="index.html" crc="4132103137" seo="true" mt="1457194684012" redirect="true"/>
   <file name="contatos.html" crc="3906547323" seo="true" mt="1456341090992" redirect="true"/>
   <file name="noticias.html" crc="44301730" seo="true" mt="1457027100377" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
   <file name="news2.html" crc="278950511" seo="true" mt="1456343179424" redirect="true"/>
-  <file name="arquivos.html" crc="417739640" seo="true" mt="1457177984440" redirect="true"/>
+  <file name="arquivos.html" crc="4078648381" seo="true" mt="1457193909521" redirect="true"/>
   <file name="news3.html" crc="3836109898" seo="true" mt="1456526642134" redirect="true"/>
   <file name="news4.html" crc="4271264357" seo="true" mt="1456526518323" redirect="true"/>
   <file name="news5.html" crc="351060172" seo="true" mt="1456343289161" redirect="true"/>

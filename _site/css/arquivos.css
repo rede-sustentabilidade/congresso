@@ -1,7 +1,7 @@
 .version.arquivos /* version checker */
 {
-	color: #0000FE;
-	background-color: #F2CA7C;
+	color: #0000EF;
+	background-color: #BFBCE1;
 }
 
 #page
@@ -3063,6 +3063,33 @@
 	position: relative;
 }
 
+#u117924
+{
+	z-index: 543;
+	width: 172px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 474px;
+}
+
+#u117925
+{
+	z-index: 544;
+	width: 128px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u117927-9
+{
+	z-index: 546;
+	position: relative;
+}
+
 #u38205-bw
 {
 	z-index: 3;
@@ -3101,7 +3128,7 @@
 	left: 78px;
 }
 
-#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u117708-8_img,#u117857-9_img,#u117872-9_img,#u38209-10_img
+#u96373-6_img,#u39624-8_img,#u39637-8_img,#u39638-8_img,#u39639-7_img,#u39640-9_img,#u60379-9_img,#u101906-9_img,#u117708-8_img,#u117857-9_img,#u117872-9_img,#u117927-9_img,#u38209-10_img
 {
 	display: block;
 	vertical-align: top;
