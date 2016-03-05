@@ -1,8 +1,9 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1457095868466">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://congresso.redesustentabilidade.org.br" resolutions="1x" timestamp="1457178018724">
   <folder name="assets">
     <file name="guia.pdf" crc="3950842665" seo="true" mt="1456434105000"/>
     <file name="twog-henry-br-2.pdf" crc="107510750" seo="true" mt="1457020646000"/>
     <file name="tese-conjuntura.pdf" crc="4094217510" seo="true" mt="1457020981000"/>
+    <file name="revisao-estatuto-propostas.pdf" crc="4129972844" seo="true" mt="1457177927000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
@@ -573,7 +574,7 @@
     <file name="u117887-4.png" crc="3785460315" ref="noticias"/>
     <file name="u117885-4.png" crc="4237891075" ref="noticias"/>
     <file name="u117708-8.png" crc="3960640461" ref="arquivos"/>
-    <file name="u117857-9.png" crc="3963356495" ref="arquivos"/>
+    <file name="u117857-9.png" crc="4164431715" ref="arquivos"/>
     <file name="u117872-9.png" crc="290265398" ref="arquivos"/>
     <file name="u117916-4.png" crc="388537027" ref="index"/>
   </folder>
@@ -582,7 +583,7 @@
   <file name="noticias.html" crc="44301730" seo="true" mt="1457027100377" redirect="true"/>
   <file name="news1.html" crc="483900970" seo="true" mt="1456343134231" redirect="true"/>
   <file name="news2.html" crc="278950511" seo="true" mt="1456343179424" redirect="true"/>
-  <file name="arquivos.html" crc="127545349" seo="true" mt="1457029831961" redirect="true"/>
+  <file name="arquivos.html" crc="417739640" seo="true" mt="1457177984440" redirect="true"/>
   <file name="news3.html" crc="3836109898" seo="true" mt="1456526642134" redirect="true"/>
   <file name="news4.html" crc="4271264357" seo="true" mt="1456526518323" redirect="true"/>
   <file name="news5.html" crc="351060172" seo="true" mt="1456343289161" redirect="true"/>
