@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #876762;
+	color: #0000E1;
+	background-color: #724911;
 }
 
 #page
@@ -2834,7 +2834,7 @@
 {
 	float: left;
 	width: 984px;
-	height: 440px;
+	height: 133px;
 	background: url("../images/u90110_states.png") no-repeat 0px 0px;
 }
 
