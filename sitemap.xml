@@ -511,18 +511,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://congresso.redesustentabilidade.org.br/images/210.jpg</loc>
-    <lastmod>2016-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://congresso.redesustentabilidade.org.br/images/111.jpg</loc>
-    <lastmod>2016-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://congresso.redesustentabilidade.org.br/images/congresso-divulgacao-16.jpg</loc>
     <lastmod>2016-05-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -595,8 +583,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/primeiro.jpg</loc>
+    <lastmod>2016-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://congresso.redesustentabilidade.org.br/images/segundo.jpg</loc>
+    <lastmod>2016-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://congresso.redesustentabilidade.org.br/index.html</loc>
-    <lastmod>2016-05-20</lastmod>
+    <lastmod>2016-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -608,7 +608,7 @@
   </url>
   <url>
     <loc>https://congresso.redesustentabilidade.org.br/noticias.html</loc>
-    <lastmod>2016-05-20</lastmod>
+    <lastmod>2016-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
